@@ -7,8 +7,9 @@ from os.path import isfile, join
 from pprint import pprint
 import tail, re
 from xml.etree import ElementTree
+from pygina import Trigger, TriggerList
 
-TRIGGERS = list()
+TRIGGERS = TriggerList
 
 
 def merge(xml_list):
@@ -65,10 +66,7 @@ def get_triggers(dir):
                 xml_data.append(xml_file.read())
 
     for trigger in merge(xml_data):
-        triggers.append(dict(
-            name=trigger.find('./Name').text,
-            regex=trigger.find('./TriggerText').text
-        ))
+        triggers.append(Trigger(xml=trigger))
 
     return triggers
 
