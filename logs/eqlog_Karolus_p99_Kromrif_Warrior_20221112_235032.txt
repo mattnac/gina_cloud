@@ -1,0 +1,1216 @@
+[Mon Jan 01 01:01:01 1990] You have entered Unknown Zone.
+[Sat Nov 12 23:50:13 2022] Tick!
+[Sat Nov 12 23:50:14 2022] Batson tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Batson slashes Kromrif Warrior for 9 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Guard slashes Kromrif Warrior for 34 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Guard hits Kromrif Warrior for 44 points of damage.
+[Sat Nov 12 23:50:14 2022] Kromrif Warrior was burned.
+[Sat Nov 12 23:50:14 2022] Kromrif Warrior bashes Batson for 42 points of damage.
+[Sat Nov 12 23:50:14 2022] Whitespy tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Royal Guard tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Royal Guard slashes Kromrif Warrior for 24 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Cleric crushes Kromrif Warrior for 68 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Cleric hits Kromrif Warrior for 24 points of damage.
+[Sat Nov 12 23:50:14 2022] Kromrif Warrior was burned.
+[Sat Nov 12 23:50:14 2022] Kromrif Warrior hits Batson for 56 points of damage.
+[Sat Nov 12 23:50:14 2022] Kromrif Warrior tries to hit Batson, but misses!
+[Sat Nov 12 23:50:14 2022] Propyl winces.
+[Sat Nov 12 23:50:14 2022] Ramzie's casting is interrupted!
+[Sat Nov 12 23:50:14 2022] Royal Soldier slashes Kromrif Warrior for 19 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Soldier tries to hit Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Royal Guard slashes Kromrif Warrior for 20 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Guard slashes Kromrif Warrior for 58 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Guard slashes Kromrif Warrior for 29 points of damage.
+[Sat Nov 12 23:50:14 2022] Kromrif Warrior has been slain by Royal Guard!
+[Sat Nov 12 23:50:14 2022] Kromrif Warrior says 'Die like the dog you are...'
+[Sat Nov 12 23:50:14 2022] Chimaira kicks Kromrif Warrior for 66 points of damage.
+[Sat Nov 12 23:50:14 2022] Garadain Glacierbane shouts 'Engaging enemies at my location, outlander...'
+[Sat Nov 12 23:50:14 2022] Corbin Blackwell shouts 'Enemy spotted here, attacking!'
+[Sat Nov 12 23:50:14 2022] Royal Soldier tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Royal Soldier tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Royal Soldier tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Royal Soldier tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Royal Soldier slashes Kromrif Warrior for 65 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Cleric crushes Kromrif Warrior for 20 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Cleric crushes Kromrif Warrior for 20 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Cleric hits Kromrif Warrior for 53 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Guard tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Royal Guard tries to hit Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Zark slashes Kromrif Warrior for 86 points of damage.
+[Sat Nov 12 23:50:14 2022] Zark slashes Kromrif Warrior for 100 points of damage.
+[Sat Nov 12 23:50:14 2022] Batson pierces Kromrif Warrior for 14 points of damage.
+[Sat Nov 12 23:50:14 2022] Batson pierces Kromrif Warrior for 21 points of damage.
+[Sat Nov 12 23:50:14 2022] Drivethru begins to cast a spell.
+[Sat Nov 12 23:50:14 2022] Royal Axeman tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Royal Axeman tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Royal Axeman tries to hit Kromrif Warrior, but Kromrif Warrior dodges!
+[Sat Nov 12 23:50:14 2022] Royal Axeman hits Kromrif Warrior for 56 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Axeman slashes Kromrif Warrior for 61 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Axeman tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Royal Axeman tries to slash Kromrif Warrior, but Kromrif Warrior parries!
+[Sat Nov 12 23:50:14 2022] Kromrif Warrior tries to slash Royal Axeman, but misses!
+[Sat Nov 12 23:50:14 2022] Royal Axeman tries to hit Kromrif Warrior, but Kromrif Warrior ripostes!
+[Sat Nov 12 23:50:14 2022] Royal Cleric crushes Kromrif Warrior for 44 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Cleric tries to hit Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Kromrif Warrior slashes royal soldier for 92 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal soldier tries to bash Kromrif Warrior, but Kromrif Warrior ripostes!
+[Sat Nov 12 23:50:14 2022] Churn the Axeman slashes Kromrif Warrior for 47 points of damage.
+[Sat Nov 12 23:50:14 2022] Churn the Axeman hits Kromrif Warrior for 73 points of damage.
+[Sat Nov 12 23:50:14 2022] Churn the Axeman tries to hit Kromrif Warrior, but Kromrif Warrior parries!
+[Sat Nov 12 23:50:14 2022] Mistressluna begins to cast a spell.
+[Sat Nov 12 23:50:14 2022] Royal Axeman tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Royal Axeman tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Royal Axeman hits Kromrif Warrior for 51 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Axeman tries to hit Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Royal Cleric tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Royal Cleric tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Royal Cleric hits Kromrif Warrior for 29 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Cleric tries to hit Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Kromrif Warrior is surrounded by flickering flames.
+[Sat Nov 12 23:50:14 2022] Your target is too far away, get closer!
+[Sat Nov 12 23:50:14 2022] Biffina slashes Kromrif Warrior for 70 points of damage.
+[Sat Nov 12 23:50:14 2022] Biffina slashes Kromrif Warrior for 59 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Cleric crushes Kromrif Warrior for 44 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Cleric hits Kromrif Warrior for 20 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Cleric hits Kromrif Warrior for 49 points of damage.
+[Sat Nov 12 23:50:14 2022] Your target is too far away, get closer!
+[Sat Nov 12 23:50:14 2022] Corbin Blackwell tries to hit Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Corbin Blackwell hits Kromrif Warrior for 45 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Cleric tries to crush Kromrif Warrior, but Kromrif Warrior parries!
+[Sat Nov 12 23:50:14 2022] Royal Cleric crushes Kromrif Warrior for 49 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Cleric crushes Kromrif Warrior for 20 points of damage.
+[Sat Nov 12 23:50:14 2022] Rhapsodae slashes Kromrif Warrior for 36 points of damage.
+[Sat Nov 12 23:50:14 2022] Pinetop slashes Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Axeman tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Royal Axeman hits Kromrif Warrior for 42 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Axeman tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Royal Axeman tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Lupony kicks Kromrif Warrior for 42 points of damage.
+[Sat Nov 12 23:50:14 2022] Pelagian tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Pelagian tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Ebener tries to backstab Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Ebener backstabs Kromrif Warrior for 103 points of damage.
+[Sat Nov 12 23:50:14 2022] Reare pierces Kromrif Warrior for 16 points of damage.
+[Sat Nov 12 23:50:14 2022] Reare pierces Kromrif Warrior for 70 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Axeman bashes Kromrif Warrior for 21 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Axeman bashes Kromrif Warrior for 19 points of damage.
+[Sat Nov 12 23:50:14 2022] Drokia tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Drokia crushes Kromrif Warrior for 10 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Guard tries to slash Kromrif Warrior, but Kromrif Warrior dodges!
+[Sat Nov 12 23:50:14 2022] Royal Guard hits Kromrif Warrior for 29 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Guard tries to hit Kromrif Warrior, but Kromrif Warrior parries!
+[Sat Nov 12 23:50:14 2022] Royal Guard slashes Kromrif Warrior for 39 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Guard slashes Kromrif Warrior for 49 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Guard tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Royal Guard tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Royal Guard tries to hit Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Royal Guard tries to hit Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Royal Guard slashes Kromrif Warrior for 53 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Guard hits Kromrif Warrior for 24 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Guard tries to hit Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Royal Guard slashes Kromrif Warrior for 39 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Guard tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Royal Guard hits Kromrif Warrior for 39 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Guard tries to hit Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Whitespy pierces Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:14 2022] Whitespy pierces Kromrif Warrior for 25 points of damage.
+[Sat Nov 12 23:50:14 2022] Fear tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Fear crushes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:14 2022] Snaggletooth crushes Kromrif Warrior for 39 points of damage.
+[Sat Nov 12 23:50:14 2022] Snaggletooth crushes Kromrif Warrior for 39 points of damage.
+[Sat Nov 12 23:50:14 2022] Drokia tries to punch Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Pinetop slashes Kromrif Warrior for 27 points of damage.
+[Sat Nov 12 23:50:14 2022] Pintsize tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Pintsize slashes Kromrif Warrior for 15 points of damage.
+[Sat Nov 12 23:50:14 2022] Royal Guard tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Royal Guard tries to hit Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:14 2022] Royal Guard hits Kromrif Warrior for 20 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal Axeman tries to bash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:15 2022] Royal Axeman bashes Kromrif Warrior for 23 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal Axeman tries to bash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:15 2022] Royal Axeman tries to kick Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:15 2022] Royal Guard tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:15 2022] Royal Cleric tries to bash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:15 2022] Royal Cleric tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:15 2022] Royal Cleric crushes Kromrif Warrior for 44 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal Cleric hits Kromrif Warrior for 34 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal Cleric hits Kromrif Warrior for 39 points of damage.
+[Sat Nov 12 23:50:15 2022] Lupony crushes Kromrif Warrior for 42 points of damage.
+[Sat Nov 12 23:50:15 2022] Lupony crushes Kromrif Warrior for 52 points of damage.
+[Sat Nov 12 23:50:15 2022] Sohail slashes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:15 2022] Batson slashes Kromrif Warrior for 15 points of damage.
+[Sat Nov 12 23:50:15 2022] Batson slashes Kromrif Warrior for 9 points of damage.
+[Sat Nov 12 23:50:15 2022] Whitespy crushes Kromrif Warrior for 18 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal Soldier slashes Kromrif Warrior for 56 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal Soldier slashes Kromrif Warrior for 42 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal soldier tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:15 2022] Royal soldier slashes Kromrif Warrior for 23 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal soldier tries to hit Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:15 2022] Rhapsodae crushes Kromrif Warrior for 1 point of damage.
+[Sat Nov 12 23:50:15 2022] Royal Guard bashes Kromrif Warrior for 20 points of damage.
+[Sat Nov 12 23:50:15 2022] Propyl begins to cast a spell.
+[Sat Nov 12 23:50:15 2022] Puppets begins to cast a spell.
+[Sat Nov 12 23:50:15 2022] Kromrif Warrior was burned.
+[Sat Nov 12 23:50:15 2022] Kromrif Warrior slashes Uhhhhh for 38 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal Axeman slashes Kromrif Warrior for 61 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal Axeman tries to hit Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:15 2022] Royal soldier slashes Kromrif Warrior for 56 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal soldier tries to hit Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:15 2022] Royal soldier tries to hit Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:15 2022] Royal Axeman slashes Kromrif Warrior for 70 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal Axeman slashes Kromrif Warrior for 19 points of damage.
+[Sat Nov 12 23:50:15 2022] Auto attack off.
+[Sat Nov 12 23:50:15 2022] Royal Axeman slashes Kromrif Warrior for 61 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal Axeman slashes Kromrif Warrior for 37 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal Axeman tries to hit Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:15 2022] Royal Axeman hits Kromrif Warrior for 51 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal Axeman slashes Kromrif Warrior for 42 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal Axeman tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:15 2022] Royal Cleric crushes Kromrif Warrior for 44 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal Cleric tries to hit Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:15 2022] Royal Cleric tries to hit Kromrif Warrior, but Kromrif Warrior dodges!
+[Sat Nov 12 23:50:15 2022] Garadain Glacierbane slashes Kromrif Warrior for 19 points of damage.
+[Sat Nov 12 23:50:15 2022] Garadain Glacierbane slashes Kromrif Warrior for 47 points of damage.
+[Sat Nov 12 23:50:15 2022] Chimaira crushes Kromrif Warrior for 60 points of damage.
+[Sat Nov 12 23:50:15 2022] Chimaira crushes Kromrif Warrior for 53 points of damage.
+[Sat Nov 12 23:50:15 2022] Batson pierces Kromrif Warrior for 23 points of damage.
+[Sat Nov 12 23:50:15 2022] Batson pierces Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:15 2022] Kromrif Warrior tries to slash Anorath, but Anorath parries!
+[Sat Nov 12 23:50:15 2022] Anorath tries to slash Kromrif Warrior, but Kromrif Warrior ripostes!
+[Sat Nov 12 23:50:15 2022] Anorath slashes Kromrif Warrior for 57 points of damage.
+[Sat Nov 12 23:50:15 2022] Ashmore tries to backstab Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:15 2022] Ebener pierces Kromrif Warrior for 31 points of damage.
+[Sat Nov 12 23:50:15 2022] Ebener pierces Kromrif Warrior for 46 points of damage.
+[Sat Nov 12 23:50:15 2022] Hallain pierces Kromrif Warrior for 53 points of damage.
+[Sat Nov 12 23:50:15 2022] Hallain tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:15 2022] Royal Axeman bashes Kromrif Warrior for 24 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal Axeman slashes Kromrif Warrior for 19 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal Axeman tries to slash Kromrif Warrior, but Kromrif Warrior dodges!
+[Sat Nov 12 23:50:15 2022] Royal Axeman tries to hit Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:15 2022] Royal soldier tries to slash Kromrif Warrior, but Kromrif Warrior parries!
+[Sat Nov 12 23:50:15 2022] Royal soldier slashes Kromrif Warrior for 37 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal soldier hits Kromrif Warrior for 19 points of damage.
+[Sat Nov 12 23:50:15 2022] Your target is too far away, get closer!
+[Sat Nov 12 23:50:15 2022] Granix winces.
+[Sat Nov 12 23:50:15 2022] Monik crushes Kromrif Warrior for 38 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal Axeman slashes Kromrif Warrior for 47 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal Axeman tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:15 2022] Royal Axeman tries to hit Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:15 2022] Royal Axeman tries to hit Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:15 2022] Royal soldier tries to slash Kromrif Warrior, but Kromrif Warrior dodges!
+[Sat Nov 12 23:50:15 2022] Royal soldier tries to hit Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:15 2022] Royal soldier hits Kromrif Warrior for 19 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal Soldier tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:15 2022] Royal Soldier tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:15 2022] Royal soldier tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:15 2022] Royal soldier hits Kromrif Warrior for 56 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal soldier hits Kromrif Warrior for 19 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal soldier slashes Kromrif Warrior for 23 points of damage.
+[Sat Nov 12 23:50:15 2022] Kromrif Warrior slashes royal soldier for 152 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal soldier tries to slash Kromrif Warrior, but Kromrif Warrior ripostes!
+[Sat Nov 12 23:50:15 2022] Royal soldier tries to hit Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:15 2022] Royal soldier tries to hit Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:15 2022] Neit slashes Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:15 2022] Neit slashes Kromrif Warrior for 36 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal Axeman bashes Kromrif Warrior for 22 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal Guard tries to bash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:15 2022] Royal Guard bashes Kromrif Warrior for 20 points of damage.
+[Sat Nov 12 23:50:15 2022] Drokia punches Kromrif Warrior for 29 points of damage.
+[Sat Nov 12 23:50:15 2022] Drokia punches Kromrif Warrior for 17 points of damage.
+[Sat Nov 12 23:50:15 2022] Pinetop slashes Kromrif Warrior for 19 points of damage.
+[Sat Nov 12 23:50:15 2022] Ashmore pierces Kromrif Warrior for 46 points of damage.
+[Sat Nov 12 23:50:15 2022] Kromrif Warrior has been slain by Ashmore!
+[Sat Nov 12 23:50:15 2022] Biffina tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:15 2022] Royal Guard bashes Kromrif Warrior for 21 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal Guard bashes Kromrif Warrior for 22 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal Guard bashes Kromrif Warrior for 22 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal Guard kicks Kromrif Warrior for 20 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal Guard kicks Kromrif Warrior for 20 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal Guard bashes Kromrif Warrior for 20 points of damage.
+[Sat Nov 12 23:50:15 2022] Royal Cleric tries to bash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:15 2022] Royal Axeman bashes Kromrif Warrior for 22 points of damage.
+[Sat Nov 12 23:50:15 2022] Biffina feels much better.
+[Sat Nov 12 23:50:15 2022] Griminflamez begins to cast a spell.
+[Sat Nov 12 23:50:16 2022] Snaggletooth crushes Kromrif Warrior for 84 points of damage.
+[Sat Nov 12 23:50:16 2022] Snaggletooth crushes Kromrif Warrior for 39 points of damage.
+[Sat Nov 12 23:50:16 2022] Rhapsodae slashes Kromrif Warrior for 25 points of damage.
+[Sat Nov 12 23:50:16 2022] Corbin Blackwell tries to kick Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:16 2022] Royal Cleric begins to cast a spell.
+[Sat Nov 12 23:50:16 2022] Royal Cleric begins to cast a spell.
+[Sat Nov 12 23:50:16 2022] Kromrif Warrior tries to hit Batson, but misses!
+[Sat Nov 12 23:50:16 2022] Kromrif Warrior was burned.
+[Sat Nov 12 23:50:16 2022] Kromrif Warrior hits Batson for 134 points of damage.
+[Sat Nov 12 23:50:16 2022] Rhapsodae crushes Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:16 2022] Batson slashes Kromrif Warrior for 1 point of damage.
+[Sat Nov 12 23:50:16 2022] Batson slashes Kromrif Warrior for 22 points of damage.
+[Sat Nov 12 23:50:16 2022] Moaag begins to cast a spell.
+[Sat Nov 12 23:50:16 2022] Batson pierces Kromrif Warrior for 28 points of damage.
+[Sat Nov 12 23:50:16 2022] Batson pierces Kromrif Warrior for 16 points of damage.
+[Sat Nov 12 23:50:16 2022] Royal Cleric's casting is interrupted!
+[Sat Nov 12 23:50:16 2022] Dengle begins to cast a spell.
+[Sat Nov 12 23:50:16 2022] Auto attack on.
+[Sat Nov 12 23:50:17 2022] You slash Kromrif Warrior for 46 points of damage.
+[Sat Nov 12 23:50:17 2022] Batson pierces Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:17 2022] Batson pierces Kromrif Warrior for 20 points of damage.
+[Sat Nov 12 23:50:17 2022] Batson kicks Kromrif Warrior for 6 points of damage.
+[Sat Nov 12 23:50:17 2022] Rhapsodae crushes Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:17 2022] Kromrif Warrior tries to slash Zark, but misses!
+[Sat Nov 12 23:50:17 2022] Batson slashes Kromrif Warrior for 1 point of damage.
+[Sat Nov 12 23:50:17 2022] Batson slashes Kromrif Warrior for 33 points of damage.
+[Sat Nov 12 23:50:17 2022] Rhapsodae slashes Kromrif Warrior for 18 points of damage.
+[Sat Nov 12 23:50:17 2022] You kick Kromrif Warrior for 1 point of damage.
+[Sat Nov 12 23:50:17 2022] Propyl winces.
+[Sat Nov 12 23:50:17 2022] Zrelik the Scout shouts 'All able Coldain, come to me at once!'
+[Sat Nov 12 23:50:17 2022] Bagluak tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:17 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:17 2022] You slash Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:17 2022] Garadain Glacierbane shouts 'For the Dain, Charge!'
+[Sat Nov 12 23:50:17 2022] Jhova begins to cast a spell.
+[Sat Nov 12 23:50:17 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:17 2022] You slash Kromrif Warrior for 1 point of damage.
+[Sat Nov 12 23:50:17 2022] Batson pierces Kromrif Warrior for 23 points of damage.
+[Sat Nov 12 23:50:18 2022] Kromrif Warrior tries to hit Batson, but Batson parries!
+[Sat Nov 12 23:50:18 2022] Rhapsodae tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:18 2022] Batson slashes Kromrif Warrior for 10 points of damage.
+[Sat Nov 12 23:50:18 2022] Granix begins to cast a spell.
+[Sat Nov 12 23:50:18 2022] Paltas begins to cast a spell.
+[Sat Nov 12 23:50:18 2022] Bagluak begins to cast a spell.
+[Sat Nov 12 23:50:18 2022] Maldis begins to cast a spell.
+[Sat Nov 12 23:50:18 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:18 2022] Drivethru begins to cast a spell.
+[Sat Nov 12 23:50:18 2022] Rhapsodae tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:18 2022] Batson pierces Kromrif Warrior for 24 points of damage.
+[Sat Nov 12 23:50:19 2022] Iguanodan begins to cast a spell.
+[Sat Nov 12 23:50:19 2022] You slash Kromrif Warrior for 5 points of damage.
+[Sat Nov 12 23:50:19 2022] Batson is blasted with chlorophyll.
+[Sat Nov 12 23:50:19 2022] Rhapsodae crushes Kromrif Warrior for 11 points of damage.
+[Sat Nov 12 23:50:19 2022] Whitespy shouts, 'Assist!! ( Kromrif Warrior ) Assist!'
+[Sat Nov 12 23:50:19 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:19 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:19 2022] Batson pierces Kromrif Warrior for 19 points of damage.
+[Sat Nov 12 23:50:19 2022] Batson pierces Kromrif Warrior for 30 points of damage.
+[Sat Nov 12 23:50:19 2022] Raizr begins to cast a spell.
+[Sat Nov 12 23:50:20 2022] Biffina begins to cast a spell.
+[Sat Nov 12 23:50:20 2022] Izemine tells the guild, 'no, we will twitch you and you alopne'
+[Sat Nov 12 23:50:20 2022] Kromrif Warrior tries to hit Batson, but misses!
+[Sat Nov 12 23:50:20 2022] Rhapsodae slashes Kromrif Warrior for 43 points of damage.
+[Sat Nov 12 23:50:20 2022] Rhapsodae tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:20 2022] You slash Kromrif Warrior for 24 points of damage.
+[Sat Nov 12 23:50:20 2022] You slash Kromrif Warrior for 30 points of damage.
+[Sat Nov 12 23:50:20 2022] Maldis regains concentration and continues casting.
+[Sat Nov 12 23:50:20 2022] Batson tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:20 2022] Batson pierces Kromrif Warrior for 27 points of damage.
+[Sat Nov 12 23:50:21 2022] Rection twitches.
+[Sat Nov 12 23:50:21 2022] Rhapsodae crushes Kromrif Warrior for 10 points of damage.
+[Sat Nov 12 23:50:21 2022] Zrelik the Scout shouts 'All able Coldain, come to me at once!'
+[Sat Nov 12 23:50:21 2022] You slash Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:21 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:21 2022] Garadain Glacierbane shouts 'For the Dain, Charge!'
+[Sat Nov 12 23:50:21 2022] Biffina regains concentration and continues casting.
+[Sat Nov 12 23:50:21 2022] Batson pierces Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:21 2022] Batson tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:21 2022] Batson pierces Kromrif Warrior for 23 points of damage.
+[Sat Nov 12 23:50:21 2022] Rhapsodae slashes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:21 2022] Lupony crushes Kromrif Warrior for 128 points of damage.
+[Sat Nov 12 23:50:21 2022] Lupony crushes Kromrif Warrior for 42 points of damage.
+[Sat Nov 12 23:50:22 2022] Batson tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:22 2022] Kromrif Warrior tries to bash Batson, but misses!
+[Sat Nov 12 23:50:22 2022] Junter's spell fizzles!
+[Sat Nov 12 23:50:22 2022] Griminflamez begins to cast a spell.
+[Sat Nov 12 23:50:22 2022] Koras slashes Kromrif Warrior for 52 points of damage.
+[Sat Nov 12 23:50:22 2022] Koras slashes Kromrif Warrior for 82 points of damage.
+[Sat Nov 12 23:50:22 2022] Cujos slashes Kromrif Warrior for 66 points of damage.
+[Sat Nov 12 23:50:22 2022] Lupony kicks Kromrif Warrior for 42 points of damage.
+[Sat Nov 12 23:50:22 2022] Kromrif Warrior tries to hit Batson, but misses!
+[Sat Nov 12 23:50:22 2022] You slash Kromrif Warrior for 1 point of damage.
+[Sat Nov 12 23:50:22 2022] Royal Cleric begins to cast a spell.
+[Sat Nov 12 23:50:22 2022] Rhapsodae tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:22 2022] Batson kicks Kromrif Warrior for 6 points of damage.
+[Sat Nov 12 23:50:22 2022] You slash Kromrif Warrior for 29 points of damage.
+[Sat Nov 12 23:50:22 2022] Batson pierces Kromrif Warrior for 16 points of damage.
+[Sat Nov 12 23:50:22 2022] Junter begins to cast a spell.
+[Sat Nov 12 23:50:22 2022] Drokia punches Kromrif Warrior for 21 points of damage.
+[Sat Nov 12 23:50:22 2022] Drokia punches Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:22 2022] Batson slashes Kromrif Warrior for 16 points of damage.
+[Sat Nov 12 23:50:22 2022] Batson tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:22 2022] Rection twitches.
+[Sat Nov 12 23:50:23 2022] Rhapsodae slashes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:23 2022] Koras slashes Kromrif Warrior for 51 points of damage.
+[Sat Nov 12 23:50:23 2022] You slash Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:23 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:23 2022] Zrelik the Scout shouts 'All able Coldain, come to me at once!'
+[Sat Nov 12 23:50:23 2022] Batson pierces Kromrif Warrior for 21 points of damage.
+[Sat Nov 12 23:50:23 2022] Garadain Glacierbane shouts 'For the Dain, Charge!'
+[Sat Nov 12 23:50:23 2022] Lamellar begins to cast a spell.
+[Sat Nov 12 23:50:23 2022] Drokia tries to punch Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:23 2022] Drokia tries to punch Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:23 2022] Granix begins to cast a spell.
+[Sat Nov 12 23:50:23 2022] Kromrif Warrior looks very uncomfortable.
+[Sat Nov 12 23:50:23 2022] Bagluak tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:23 2022] Lupony tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:24 2022] Kromrif Warrior says 'Die like the dog you are...'
+[Sat Nov 12 23:50:24 2022] Batson Scores a critical hit!(28)
+[Sat Nov 12 23:50:24 2022] Batson slashes Kromrif Warrior for 28 points of damage.
+[Sat Nov 12 23:50:24 2022] Batson tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:24 2022] Garadain Glacierbane shouts 'Engaging enemies at my location, outlander...'
+[Sat Nov 12 23:50:24 2022] Corbin Blackwell shouts 'Enemy spotted here, attacking!'
+[Sat Nov 12 23:50:24 2022] Drokia tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:24 2022] Mezzor begins to cast a spell.
+[Sat Nov 12 23:50:24 2022] Kromrif Warrior tries to hit Batson, but Batson parries!
+[Sat Nov 12 23:50:24 2022] You slash Kromrif Warrior for 14 points of damage.
+[Sat Nov 12 23:50:24 2022] Royal Cleric begins to cast a spell.
+[Sat Nov 12 23:50:24 2022] Koras slashes Kromrif Warrior for 31 points of damage.
+[Sat Nov 12 23:50:24 2022] Batson tries to pierce Kromrif Warrior, but Kromrif Warrior dodges!
+[Sat Nov 12 23:50:24 2022] Batson tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:24 2022] Bagluak tells the guild, 'MALO curse majikz on Kromrif Warrior!'
+[Sat Nov 12 23:50:24 2022] Drokia tries to punch Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:24 2022] Ramzie begins to cast a spell.
+[Sat Nov 12 23:50:25 2022] Rhapsodae slashes Kromrif Warrior for 22 points of damage.
+[Sat Nov 12 23:50:25 2022] Drivethru's casting is interrupted!
+[Sat Nov 12 23:50:25 2022] Batson slashes Kromrif Warrior for 7 points of damage.
+[Sat Nov 12 23:50:25 2022] Batson slashes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:25 2022] Bagluak says, 'MALO curse majikz on Kromrif Warrior!'
+[Sat Nov 12 23:50:25 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:25 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:25 2022] Drokia punches Kromrif Warrior for 16 points of damage.
+[Sat Nov 12 23:50:25 2022] Griminflamez begins to cast a spell.
+[Sat Nov 12 23:50:25 2022] Royal Cleric begins to cast a spell.
+[Sat Nov 12 23:50:25 2022] Batson pierces Kromrif Warrior for 26 points of damage.
+[Sat Nov 12 23:50:25 2022] Mistressluna begins to cast a spell.
+[Sat Nov 12 23:50:25 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:25 2022] You slash Kromrif Warrior for 9 points of damage.
+[Sat Nov 12 23:50:25 2022] Koras slashes Kromrif Warrior for 35 points of damage.
+[Sat Nov 12 23:50:25 2022] Koras tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:25 2022] Iguanodan begins to cast a spell.
+[Sat Nov 12 23:50:25 2022] Drokia tries to kick Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:25 2022] Royal Cleric's casting is interrupted!
+[Sat Nov 12 23:50:25 2022] Bagluak tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:25 2022] Rhapsodae tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:26 2022] Drokia tries to punch Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:26 2022] Lupony crushes Kromrif Warrior for 42 points of damage.
+[Sat Nov 12 23:50:26 2022] Lupony crushes Kromrif Warrior for 82 points of damage.
+[Sat Nov 12 23:50:26 2022] You slash Kromrif Warrior for 29 points of damage.
+[Sat Nov 12 23:50:26 2022] Batson tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:26 2022] Batson slashes Kromrif Warrior for 23 points of damage.
+[Sat Nov 12 23:50:26 2022] Kromrif Warrior was burned.
+[Sat Nov 12 23:50:26 2022] Kromrif Warrior hits Batson for 38 points of damage.
+[Sat Nov 12 23:50:26 2022] Batson pierces Kromrif Warrior for 27 points of damage.
+[Sat Nov 12 23:50:26 2022] Batson tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:26 2022] Batson pierces Kromrif Warrior for 33 points of damage.
+[Sat Nov 12 23:50:26 2022] Rhapsodae crushes Kromrif Warrior for 26 points of damage.
+[Sat Nov 12 23:50:26 2022] Drokia crushes Kromrif Warrior for 2 points of damage.
+[Sat Nov 12 23:50:26 2022] Zrelik the Scout shouts 'All able Coldain, come to me at once!'
+[Sat Nov 12 23:50:26 2022] Garadain Glacierbane shouts 'For the Dain, Charge!'
+[Sat Nov 12 23:50:26 2022] Royal Cleric begins to cast a spell.
+[Sat Nov 12 23:50:26 2022] Lupony kicks Kromrif Warrior for 42 points of damage.
+[Sat Nov 12 23:50:26 2022] Koras slashes Kromrif Warrior for 25 points of damage.
+[Sat Nov 12 23:50:26 2022] Drokia punches Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:26 2022] Drokia tries to punch Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:26 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:27 2022] Kromrif Warrior's feet adhere to the ground.
+[Sat Nov 12 23:50:27 2022] Batson tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:27 2022] Batson pierces Kromrif Warrior for 22 points of damage.
+[Sat Nov 12 23:50:27 2022] Batson pierces Kromrif Warrior for 20 points of damage.
+[Sat Nov 12 23:50:27 2022] Zark tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:27 2022] Zark tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:27 2022] Batson slashes Kromrif Warrior for 22 points of damage.
+[Sat Nov 12 23:50:27 2022] Batson slashes Kromrif Warrior for 7 points of damage.
+[Sat Nov 12 23:50:27 2022] Rhapsodae tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:27 2022] Rection twitches.
+[Sat Nov 12 23:50:27 2022] Rhapsodae tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:27 2022] Drokia punches Kromrif Warrior for 21 points of damage.
+[Sat Nov 12 23:50:27 2022] Drokia crushes Kromrif Warrior for 33 points of damage.
+[Sat Nov 12 23:50:27 2022] Drokia crushes Kromrif Warrior for 20 points of damage.
+[Sat Nov 12 23:50:27 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:28 2022] Koras slashes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:28 2022] Koras tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:28 2022] Batson tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:28 2022] Batson tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:28 2022] Batson tries to kick Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:28 2022] Royal Cleric begins to cast a spell.
+[Sat Nov 12 23:50:28 2022] Bagluak tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:28 2022] Shortstache begins to cast a spell.
+[Sat Nov 12 23:50:28 2022] Lupony crushes Kromrif Warrior for 82 points of damage.
+[Sat Nov 12 23:50:28 2022] Lupony crushes Kromrif Warrior for 42 points of damage.
+[Sat Nov 12 23:50:28 2022] Lupony tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:28 2022] Kromrif Warrior was burned.
+[Sat Nov 12 23:50:28 2022] Kromrif Warrior hits Batson for 116 points of damage.
+[Sat Nov 12 23:50:28 2022] Kromrif Warrior tries to hit Batson, but misses!
+[Sat Nov 12 23:50:28 2022] Bagluak begins to cast a spell.
+[Sat Nov 12 23:50:28 2022] Koras is blasted with chlorophyll.
+[Sat Nov 12 23:50:28 2022] Batson slashes Kromrif Warrior for 1 point of damage.
+[Sat Nov 12 23:50:28 2022] Batson slashes Kromrif Warrior for 32 points of damage.
+[Sat Nov 12 23:50:28 2022] Royal Cleric begins to cast a spell.
+[Sat Nov 12 23:50:28 2022] Drokia punches Kromrif Warrior for 23 points of damage.
+[Sat Nov 12 23:50:28 2022] Drokia punches Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:28 2022] Cilo begins to cast a spell.
+[Sat Nov 12 23:50:28 2022] Griminflamez begins to cast a spell.
+[Sat Nov 12 23:50:28 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:28 2022] Rhapsodae slashes Kromrif Warrior for 22 points of damage.
+[Sat Nov 12 23:50:28 2022] Zrelik the Scout shouts 'All able Coldain, come to me at once!'
+[Sat Nov 12 23:50:28 2022] You slash Kromrif Warrior for 18 points of damage.
+[Sat Nov 12 23:50:28 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:28 2022] Garadain Glacierbane shouts 'For the Dain, Charge!'
+[Sat Nov 12 23:50:28 2022] Batson pierces Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:29 2022] Kromrif Warrior's feet become entwined.
+[Sat Nov 12 23:50:29 2022] Zark tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:29 2022] Zark slashes Kromrif Warrior for 37 points of damage.
+[Sat Nov 12 23:50:29 2022] Drokia crushes Kromrif Warrior for 26 points of damage.
+[Sat Nov 12 23:50:29 2022] Drokia crushes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:29 2022] Koras slashes Kromrif Warrior for 32 points of damage.
+[Sat Nov 12 23:50:29 2022] Koras tries to slash Kromrif Warrior, but Kromrif Warrior parries!
+[Sat Nov 12 23:50:29 2022] Drokia tries to punch Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:29 2022] Drokia punches Kromrif Warrior for 25 points of damage.
+[Sat Nov 12 23:50:29 2022] Jhova begins to cast a spell.
+[Sat Nov 12 23:50:29 2022] Rhapsodae crushes Kromrif Warrior for 23 points of damage.
+[Sat Nov 12 23:50:29 2022] Selush's spell fizzles!
+[Sat Nov 12 23:50:29 2022] Kromrif Warrior tries to kick Batson, but misses!
+[Sat Nov 12 23:50:29 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:29 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:29 2022] Batson pierces Kromrif Warrior for 29 points of damage.
+[Sat Nov 12 23:50:30 2022] Drokia tries to punch Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:30 2022] Drivethru begins to cast a spell.
+[Sat Nov 12 23:50:30 2022] Rhapsodae slashes Kromrif Warrior for 41 points of damage.
+[Sat Nov 12 23:50:30 2022] Kromrif Warrior was burned.
+[Sat Nov 12 23:50:30 2022] Kromrif Warrior hits Batson for 62 points of damage.
+[Sat Nov 12 23:50:30 2022] Kromrif Warrior was burned.
+[Sat Nov 12 23:50:30 2022] Kromrif Warrior hits Batson for 50 points of damage.
+[Sat Nov 12 23:50:30 2022] Paltas begins to cast a spell.
+[Sat Nov 12 23:50:30 2022] Drokia crushes Kromrif Warrior for 28 points of damage.
+[Sat Nov 12 23:50:30 2022] Drokia crushes Kromrif Warrior for 6 points of damage.
+[Sat Nov 12 23:50:30 2022] Lupony crushes Kromrif Warrior for 42 points of damage.
+[Sat Nov 12 23:50:30 2022] Koras tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:30 2022] You slash Kromrif Warrior for 24 points of damage.
+[Sat Nov 12 23:50:30 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:30 2022] Batson tries to slash Kromrif Warrior, but Kromrif Warrior dodges!
+[Sat Nov 12 23:50:30 2022] Selush begins to cast a spell.
+[Sat Nov 12 23:50:30 2022] Batson pierces Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:30 2022] Bagluak winces.
+[Sat Nov 12 23:50:30 2022] Bagluak tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:30 2022] You slash Kromrif Warrior for 1 point of damage.
+[Sat Nov 12 23:50:30 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:30 2022] Oignan tells the guild, 'vindi'
+[Sat Nov 12 23:50:31 2022] Drokia tries to punch Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:31 2022] Drokia tries to punch Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:31 2022] Zark tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:31 2022] Lupony kicks Kromrif Warrior for 42 points of damage.
+[Sat Nov 12 23:50:31 2022] You slash Kromrif Warrior for 22 points of damage.
+[Sat Nov 12 23:50:31 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:31 2022] Rhapsodae tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:31 2022] Koras slashes Kromrif Warrior for 48 points of damage.
+[Sat Nov 12 23:50:31 2022] Koras slashes Kromrif Warrior for 35 points of damage.
+[Sat Nov 12 23:50:31 2022] Rhapsodae crushes Kromrif Warrior for 1 point of damage.
+[Sat Nov 12 23:50:31 2022] Drokia tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:31 2022] Drokia crushes Kromrif Warrior for 11 points of damage.
+[Sat Nov 12 23:50:31 2022] Batson pierces Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:31 2022] Batson tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:31 2022] Drokia punches Kromrif Warrior for 23 points of damage.
+[Sat Nov 12 23:50:31 2022] Drokia tries to punch Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:31 2022] You slash Kromrif Warrior for 1 point of damage.
+[Sat Nov 12 23:50:31 2022] Raizr begins to cast a spell.
+[Sat Nov 12 23:50:32 2022] Kromrif Warrior was burned.
+[Sat Nov 12 23:50:32 2022] Kromrif Warrior hits Batson for 98 points of damage.
+[Sat Nov 12 23:50:32 2022] Kromrif Warrior was burned.
+[Sat Nov 12 23:50:32 2022] Kromrif Warrior hits Batson for 116 points of damage.
+[Sat Nov 12 23:50:32 2022] Rection twitches.
+[Sat Nov 12 23:50:32 2022] You slash Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:32 2022] You slash Kromrif Warrior for 33 points of damage.
+[Sat Nov 12 23:50:32 2022] Zrelik the Scout shouts 'All able Coldain, come to me at once!'
+[Sat Nov 12 23:50:32 2022] Garadain Glacierbane shouts 'For the Dain, Charge!'
+[Sat Nov 12 23:50:32 2022] Sohail slashes Kromrif Warrior for 62 points of damage.
+[Sat Nov 12 23:50:32 2022] Drokia punches Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:32 2022] Batson pierces Kromrif Warrior for 19 points of damage.
+[Sat Nov 12 23:50:32 2022] Batson tries to pierce Kromrif Warrior, but Kromrif Warrior dodges!
+[Sat Nov 12 23:50:32 2022] Lupony crushes Kromrif Warrior for 42 points of damage.
+[Sat Nov 12 23:50:32 2022] Lupony tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:32 2022] Rhapsodae tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:32 2022] Drokia kicks Kromrif Warrior for 42 points of damage.
+[Sat Nov 12 23:50:32 2022] Royal Cleric begins to cast a spell.
+[Sat Nov 12 23:50:32 2022] Koras slashes Kromrif Warrior for 79 points of damage.
+[Sat Nov 12 23:50:32 2022] Koras tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:32 2022] Drokia crushes Kromrif Warrior for 2 points of damage.
+[Sat Nov 12 23:50:32 2022] You slash Kromrif Warrior for 1 point of damage.
+[Sat Nov 12 23:50:32 2022] Rhapsodae tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:32 2022] Bagluak pierces Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:32 2022] Zark beams a smile at Kromrif Warrior
+[Sat Nov 12 23:50:32 2022] Zark says 'Ahhh, I feel much better now...'
+[Sat Nov 12 23:50:33 2022] Kromrif Warrior staggers.
+[Sat Nov 12 23:50:33 2022] Zark slashes Kromrif Warrior for 96 points of damage.
+[Sat Nov 12 23:50:33 2022] Zark slashes Kromrif Warrior for 87 points of damage.
+[Sat Nov 12 23:50:33 2022] Royal Cleric begins to cast a spell.
+[Sat Nov 12 23:50:33 2022] Fear crushes Kromrif Warrior for 40 points of damage.
+[Sat Nov 12 23:50:33 2022] Fear crushes Kromrif Warrior for 32 points of damage.
+[Sat Nov 12 23:50:33 2022] You slash Kromrif Warrior for 41 points of damage.
+[Sat Nov 12 23:50:33 2022] You slash Kromrif Warrior for 36 points of damage.
+[Sat Nov 12 23:50:33 2022] You slash Kromrif Warrior for 17 points of damage.
+[Sat Nov 12 23:50:33 2022] Drokia punches Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:33 2022] Drokia punches Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:33 2022] Batson tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:33 2022] Batson kicks Kromrif Warrior for 7 points of damage.
+[Sat Nov 12 23:50:33 2022] Rection twitches.
+[Sat Nov 12 23:50:33 2022] Rhapsodae crushes Kromrif Warrior for 9 points of damage.
+[Sat Nov 12 23:50:33 2022] Mistressluna begins to cast a spell.
+[Sat Nov 12 23:50:33 2022] Dengle's casting is interrupted!
+[Sat Nov 12 23:50:33 2022] Royal Cleric begins to cast a spell.
+[Sat Nov 12 23:50:34 2022] Sohail slashes Kromrif Warrior for 40 points of damage.
+[Sat Nov 12 23:50:34 2022] Zark tries to bash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:34 2022] Batson slashes Kromrif Warrior for 1 point of damage.
+[Sat Nov 12 23:50:34 2022] You slash Kromrif Warrior for 11 points of damage.
+[Sat Nov 12 23:50:34 2022] You slash Kromrif Warrior for 9 points of damage.
+[Sat Nov 12 23:50:34 2022] Koras slashes Kromrif Warrior for 25 points of damage.
+[Sat Nov 12 23:50:34 2022] Koras slashes Kromrif Warrior for 40 points of damage.
+[Sat Nov 12 23:50:34 2022] Fear bashes Kromrif Warrior for 1 point of damage.
+[Sat Nov 12 23:50:34 2022] Drokia punches Kromrif Warrior for 23 points of damage.
+[Sat Nov 12 23:50:34 2022] Drokia punches Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:34 2022] You slash Kromrif Warrior for 14 points of damage.
+[Sat Nov 12 23:50:34 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:34 2022] Kromrif Warrior tries to hit Batson, but misses!
+[Sat Nov 12 23:50:34 2022] Rhapsodae tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:34 2022] Batson tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:34 2022] Batson pierces Kromrif Warrior for 22 points of damage.
+[Sat Nov 12 23:50:34 2022] Fear tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:34 2022] Fear crushes Kromrif Warrior for 33 points of damage.
+[Sat Nov 12 23:50:34 2022] Sohail crushes Kromrif Warrior for 37 points of damage.
+[Sat Nov 12 23:50:34 2022] Griminflamez begins to cast a spell.
+[Sat Nov 12 23:50:34 2022] Elvishqueen begins to cast a spell.
+[Sat Nov 12 23:50:34 2022] Snaggletooth crushes Kromrif Warrior for 67 points of damage.
+[Sat Nov 12 23:50:34 2022] Rhapsodae crushes Kromrif Warrior for 3 points of damage.
+[Sat Nov 12 23:50:34 2022] Lupony crushes Kromrif Warrior for 77 points of damage.
+[Sat Nov 12 23:50:34 2022] Zark slashes Kromrif Warrior for 37 points of damage.
+[Sat Nov 12 23:50:34 2022] Drokia tries to punch Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:35 2022] Rection twitches.
+[Sat Nov 12 23:50:35 2022] Batson tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:35 2022] You slash Kromrif Warrior for 31 points of damage.
+[Sat Nov 12 23:50:35 2022] You slash Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:35 2022] Bagluak tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:35 2022] Koras tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:35 2022] Koras slashes Kromrif Warrior for 75 points of damage.
+[Sat Nov 12 23:50:35 2022] Sohail slashes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:35 2022] Batson pierces Kromrif Warrior for 24 points of damage.
+[Sat Nov 12 23:50:35 2022] Batson pierces Kromrif Warrior for 22 points of damage.
+[Sat Nov 12 23:50:35 2022] Bagluak begins to cast a spell.
+[Sat Nov 12 23:50:35 2022] Drokia crushes Kromrif Warrior for 18 points of damage.
+[Sat Nov 12 23:50:35 2022] Drokia crushes Kromrif Warrior for 2 points of damage.
+[Sat Nov 12 23:50:35 2022] Sohail crushes Kromrif Warrior for 1 point of damage.
+[Sat Nov 12 23:50:35 2022] Iguanodan begins to cast a spell.
+[Sat Nov 12 23:50:35 2022] Lupony regards you indifferently -- looks like quite a gamble.
+[Sat Nov 12 23:50:35 2022] Lupony tries to kick Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:35 2022] Fear crushes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:35 2022] Fear tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:35 2022] Batson feels a little better.
+[Sat Nov 12 23:50:35 2022] You are inspecting Lupony.
+[Sat Nov 12 23:50:35 2022] Rhapsodae slashes Kromrif Warrior for 33 points of damage.
+[Sat Nov 12 23:50:35 2022] Rhapsodae crushes Kromrif Warrior for 16 points of damage.
+[Sat Nov 12 23:50:35 2022] Drokia punches Kromrif Warrior for 20 points of damage.
+[Sat Nov 12 23:50:35 2022] Snaggletooth crushes Kromrif Warrior for 25 points of damage.
+[Sat Nov 12 23:50:35 2022] You slash Kromrif Warrior for 24 points of damage.
+[Sat Nov 12 23:50:35 2022] You slash Kromrif Warrior for 24 points of damage.
+[Sat Nov 12 23:50:36 2022] Granix tells the guild, 'Lodi/Yael/Vindi n thats like it'
+[Sat Nov 12 23:50:36 2022] Kromrif Warrior is lacerated by deadly steel.
+[Sat Nov 12 23:50:36 2022] Batson slashes Kromrif Warrior for 4 points of damage.
+[Sat Nov 12 23:50:36 2022] Batson pierces Kromrif Warrior for 38 points of damage.
+[Sat Nov 12 23:50:36 2022] Kromrif Warrior tries to hit Batson, but Batson parries!
+[Sat Nov 12 23:50:36 2022] Kromrif Warrior tries to hit Batson, but misses!
+[Sat Nov 12 23:50:36 2022] Koras tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:36 2022] Sohail tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:36 2022] Drokia punches Kromrif Warrior for 23 points of damage.
+[Sat Nov 12 23:50:36 2022] Drokia tries to punch Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:36 2022] Selush begins to cast a spell.
+[Sat Nov 12 23:50:36 2022] Sohail slashes Kromrif Warrior for 29 points of damage.
+[Sat Nov 12 23:50:36 2022] Zrelik the Scout shouts 'All able Coldain, come to me at once!'
+[Sat Nov 12 23:50:36 2022] Garadain Glacierbane shouts 'For the Dain, Charge!'
+[Sat Nov 12 23:50:37 2022] Fear crushes Kromrif Warrior for 51 points of damage.
+[Sat Nov 12 23:50:37 2022] Fear tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:37 2022] Lupony crushes Kromrif Warrior for 120 points of damage.
+[Sat Nov 12 23:50:37 2022] Lupony crushes Kromrif Warrior for 72 points of damage.
+[Sat Nov 12 23:50:37 2022] Zark slashes Kromrif Warrior for 119 points of damage.
+[Sat Nov 12 23:50:37 2022] Zark tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:37 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:37 2022] You slash Kromrif Warrior for 22 points of damage.
+[Sat Nov 12 23:50:37 2022] You try to kick Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:37 2022] Snaggletooth crushes Kromrif Warrior for 57 points of damage.
+[Sat Nov 12 23:50:37 2022] Batson tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:37 2022] Rhapsodae tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:37 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:37 2022] Batson tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:37 2022] Batson tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:37 2022] Drokia punches Kromrif Warrior for 20 points of damage.
+[Sat Nov 12 23:50:37 2022] Drokia tries to punch Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:37 2022] Drokia punches Kromrif Warrior for 19 points of damage.
+[Sat Nov 12 23:50:37 2022] Kromrif Warrior was burned.
+[Sat Nov 12 23:50:37 2022] Kromrif Warrior bashes Batson for 38 points of damage.
+[Sat Nov 12 23:50:37 2022] Sohail crushes Kromrif Warrior for 1 point of damage.
+[Sat Nov 12 23:50:37 2022] Koras slashes Kromrif Warrior for 39 points of damage.
+[Sat Nov 12 23:50:37 2022] Bagluak winces.
+[Sat Nov 12 23:50:37 2022] Rhapsodae crushes Kromrif Warrior for 1 point of damage.
+[Sat Nov 12 23:50:37 2022] Bagluak pierces Kromrif Warrior for 20 points of damage.
+[Sat Nov 12 23:50:37 2022] You slash Kromrif Warrior for 32 points of damage.
+[Sat Nov 12 23:50:37 2022] You slash Kromrif Warrior for 28 points of damage.
+[Sat Nov 12 23:50:38 2022] Batson pierces Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:38 2022] Fear tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:38 2022] Sohail tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:38 2022] Snaggletooth crushes Kromrif Warrior for 39 points of damage.
+[Sat Nov 12 23:50:38 2022] Drokia tries to punch Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:38 2022] Drokia punches Kromrif Warrior for 29 points of damage.
+[Sat Nov 12 23:50:38 2022] You slash Kromrif Warrior for 6 points of damage.
+[Sat Nov 12 23:50:38 2022] Batson tries to kick Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:38 2022] Kromrif Warrior was burned.
+[Sat Nov 12 23:50:38 2022] Kromrif Warrior hits Batson for 38 points of damage.
+[Sat Nov 12 23:50:38 2022] Kromrif Warrior was burned.
+[Sat Nov 12 23:50:38 2022] Kromrif Warrior hits Batson for 116 points of damage.
+[Sat Nov 12 23:50:38 2022] Fear bashes Kromrif Warrior for 1 point of damage.
+[Sat Nov 12 23:50:38 2022] Rhapsodae slashes Kromrif Warrior for 45 points of damage.
+[Sat Nov 12 23:50:38 2022] Sohail crushes Kromrif Warrior for 15 points of damage.
+[Sat Nov 12 23:50:38 2022] You slash Kromrif Warrior for 18 points of damage.
+[Sat Nov 12 23:50:38 2022] Koras tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:38 2022] Koras slashes Kromrif Warrior for 37 points of damage.
+[Sat Nov 12 23:50:38 2022] Rhapsodae tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:38 2022] Zark slashes Kromrif Warrior for 104 points of damage.
+[Sat Nov 12 23:50:38 2022] Batson pierces Kromrif Warrior for 19 points of damage.
+[Sat Nov 12 23:50:38 2022] Batson pierces Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:39 2022] Drokia punches Kromrif Warrior for 22 points of damage.
+[Sat Nov 12 23:50:39 2022] Lupony crushes Kromrif Warrior for 83 points of damage.
+[Sat Nov 12 23:50:39 2022] Lupony tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:39 2022] Drivethru begins to cast a spell.
+[Sat Nov 12 23:50:39 2022] Fear tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:39 2022] Drokia crushes Kromrif Warrior for 9 points of damage.
+[Sat Nov 12 23:50:39 2022] Drokia crushes Kromrif Warrior for 46 points of damage.
+[Sat Nov 12 23:50:39 2022] You slash Kromrif Warrior for 31 points of damage.
+[Sat Nov 12 23:50:39 2022] You slash Kromrif Warrior for 21 points of damage.
+[Sat Nov 12 23:50:39 2022] Corbin Blackwell shouts 'Enemy spotted here, attacking!'
+[Sat Nov 12 23:50:39 2022] Snaggletooth crushes Kromrif Warrior for 56 points of damage.
+[Sat Nov 12 23:50:39 2022] Snaggletooth crushes Kromrif Warrior for 31 points of damage.
+[Sat Nov 12 23:50:39 2022] Junter begins to cast a spell.
+[Sat Nov 12 23:50:39 2022] Sohail slashes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:39 2022] Cilo begins to cast a spell.
+[Sat Nov 12 23:50:39 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:39 2022] Selush's casting is interrupted!
+[Sat Nov 12 23:50:39 2022] Sohail crushes Kromrif Warrior for 1 point of damage.
+[Sat Nov 12 23:50:39 2022] Drokia kicks Kromrif Warrior for 42 points of damage.
+[Sat Nov 12 23:50:39 2022] Batson pierces Kromrif Warrior for 26 points of damage.
+[Sat Nov 12 23:50:39 2022] Drokia punches Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:39 2022] Rhapsodae tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:40 2022] Rhapsodae tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:40 2022] Lupony kicks Kromrif Warrior for 42 points of damage.
+[Sat Nov 12 23:50:40 2022] Koras tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:40 2022] Bagluak pierces Kromrif Warrior for 23 points of damage.
+[Sat Nov 12 23:50:40 2022] Izemine begins to cast a spell.
+[Sat Nov 12 23:50:40 2022] Kromrif Warrior tries to hit Batson, but Batson parries!
+[Sat Nov 12 23:50:40 2022] Fear crushes Kromrif Warrior for 39 points of damage.
+[Sat Nov 12 23:50:40 2022] Fear tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:40 2022] Snaggletooth crushes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:40 2022] Drokia tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:40 2022] Drokia tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:40 2022] Griminflamez begins to cast a spell.
+[Sat Nov 12 23:50:40 2022] You slash Kromrif Warrior for 36 points of damage.
+[Sat Nov 12 23:50:40 2022] Kromrif Warrior tries to hit Batson, but misses!
+[Sat Nov 12 23:50:40 2022] Batson tries to slash Kromrif Warrior, but Kromrif Warrior ripostes!
+[Sat Nov 12 23:50:40 2022] Batson slashes Kromrif Warrior for 17 points of damage.
+[Sat Nov 12 23:50:40 2022] Kromrif Warrior singes as the Burst of Flame hits them.
+[Sat Nov 12 23:50:40 2022] Drokia tries to punch Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:40 2022] Zrelik the Scout shouts 'All able Coldain, come to me at once!'
+[Sat Nov 12 23:50:40 2022] Garadain Glacierbane shouts 'For the Dain, Charge!'
+[Sat Nov 12 23:50:40 2022] Sohail tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:40 2022] Batson tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:40 2022] Zark tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:40 2022] Zark tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:40 2022] Puppets begins to cast a spell.
+[Sat Nov 12 23:50:40 2022] Ramzie begins to cast a spell.
+[Sat Nov 12 23:50:40 2022] Sohail slashes Kromrif Warrior for 21 points of damage.
+[Sat Nov 12 23:50:40 2022] Jhova begins to cast a spell.
+[Sat Nov 12 23:50:41 2022] Koras tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:41 2022] Koras slashes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:41 2022] Lupony crushes Kromrif Warrior for 42 points of damage.
+[Sat Nov 12 23:50:41 2022] Garadain Glacierbane shouts 'Engaging enemies at my location, outlander...'
+[Sat Nov 12 23:50:41 2022] Rhapsodae slashes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:41 2022] You slash Kromrif Warrior for 6 points of damage.
+[Sat Nov 12 23:50:41 2022] You slash Kromrif Warrior for 38 points of damage.
+[Sat Nov 12 23:50:41 2022] You slash Kromrif Warrior for 22 points of damage.
+[Sat Nov 12 23:50:41 2022] You slash Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:41 2022] Drokia punches Kromrif Warrior for 28 points of damage.
+[Sat Nov 12 23:50:41 2022] Fear crushes Kromrif Warrior for 74 points of damage.
+[Sat Nov 12 23:50:41 2022] Fear crushes Kromrif Warrior for 16 points of damage.
+[Sat Nov 12 23:50:41 2022] Batson tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:41 2022] Batson pierces Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:41 2022] Snaggletooth crushes Kromrif Warrior for 75 points of damage.
+[Sat Nov 12 23:50:41 2022] Batson slashes Kromrif Warrior for 30 points of damage.
+[Sat Nov 12 23:50:41 2022] Batson slashes Kromrif Warrior for 19 points of damage.
+[Sat Nov 12 23:50:41 2022] Sohail crushes Kromrif Warrior for 36 points of damage.
+[Sat Nov 12 23:50:41 2022] Drokia crushes Kromrif Warrior for 11 points of damage.
+[Sat Nov 12 23:50:42 2022] Rhapsodae tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:42 2022] Izemine regains concentration and continues casting.
+[Sat Nov 12 23:50:42 2022] Bagluak pierces Kromrif Warrior for 10 points of damage.
+[Sat Nov 12 23:50:42 2022] Drokia punches Kromrif Warrior for 23 points of damage.
+[Sat Nov 12 23:50:42 2022] Drokia punches Kromrif Warrior for 37 points of damage.
+[Sat Nov 12 23:50:42 2022] Sohail slashes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:42 2022] Kromrif Warrior was burned.
+[Sat Nov 12 23:50:42 2022] Kromrif Warrior hits Batson for 140 points of damage.
+[Sat Nov 12 23:50:42 2022] Kromrif Warrior was burned.
+[Sat Nov 12 23:50:42 2022] Kromrif Warrior hits Batson for 134 points of damage.
+[Sat Nov 12 23:50:42 2022] You slash Kromrif Warrior for 26 points of damage.
+[Sat Nov 12 23:50:42 2022] You slash Kromrif Warrior for 23 points of damage.
+[Sat Nov 12 23:50:42 2022] You slash Kromrif Warrior for 19 points of damage.
+[Sat Nov 12 23:50:42 2022] Ramzie beams a smile at Kromrif Warrior
+[Sat Nov 12 23:50:42 2022] Ramzie says 'Ahhh, I feel much better now...'
+[Sat Nov 12 23:50:42 2022] Kromrif Warrior staggers.
+[Sat Nov 12 23:50:42 2022] Koras slashes Kromrif Warrior for 24 points of damage.
+[Sat Nov 12 23:50:42 2022] Koras slashes Kromrif Warrior for 25 points of damage.
+[Sat Nov 12 23:50:43 2022] Batson pierces Kromrif Warrior for 15 points of damage.
+[Sat Nov 12 23:50:43 2022] Batson tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:43 2022] Phubok begins to cast a spell.
+[Sat Nov 12 23:50:43 2022] Sohail crushes Kromrif Warrior for 1 point of damage.
+[Sat Nov 12 23:50:43 2022] Zark slashes Kromrif Warrior for 102 points of damage.
+[Sat Nov 12 23:50:43 2022] Rhapsodae tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:43 2022] Fear tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:43 2022] Fear tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:43 2022] Fear tries to bash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:43 2022] Snaggletooth tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:43 2022] Snaggletooth crushes Kromrif Warrior for 74 points of damage.
+[Sat Nov 12 23:50:43 2022] Ebener pierces Kromrif Warrior for 30 points of damage.
+[Sat Nov 12 23:50:43 2022] Ebener tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:43 2022] Ebener slashes Kromrif Warrior for 28 points of damage.
+[Sat Nov 12 23:50:43 2022] Rhapsodae crushes Kromrif Warrior for 26 points of damage.
+[Sat Nov 12 23:50:43 2022] Moaag begins to cast a spell.
+[Sat Nov 12 23:50:43 2022] Drokia tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:43 2022] Drokia tries to punch Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:43 2022] Drokia tries to punch Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:43 2022] Drokia punches Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:43 2022] Wujene tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:43 2022] Whitespy shouts, 'Assist!! ( Priest of Zek ) Assist!'
+[Sat Nov 12 23:50:43 2022] You slash Kromrif Warrior for 41 points of damage.
+[Sat Nov 12 23:50:43 2022] Batson tries to kick Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:43 2022] Lupony crushes Kromrif Warrior for 42 points of damage.
+[Sat Nov 12 23:50:43 2022] Lupony crushes Kromrif Warrior for 121 points of damage.
+[Sat Nov 12 23:50:43 2022] Batson pierces Kromrif Warrior for 27 points of damage.
+[Sat Nov 12 23:50:43 2022] Batson tries to pierce Kromrif Warrior, but Kromrif Warrior dodges!
+[Sat Nov 12 23:50:43 2022] Koras slashes Kromrif Warrior for 67 points of damage.
+[Sat Nov 12 23:50:43 2022] Sohail slashes Kromrif Warrior for 17 points of damage.
+[Sat Nov 12 23:50:43 2022] Sohail crushes Kromrif Warrior for 22 points of damage.
+[Sat Nov 12 23:50:43 2022] Neit pierces Kromrif Warrior for 51 points of damage.
+[Sat Nov 12 23:50:43 2022] Neit slashes Kromrif Warrior for 2 points of damage.
+[Sat Nov 12 23:50:43 2022] Neit slashes Kromrif Warrior for 25 points of damage.
+[Sat Nov 12 23:50:44 2022] Drokia punches Kromrif Warrior for 29 points of damage.
+[Sat Nov 12 23:50:44 2022] Batson tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:44 2022] Snaggletooth crushes Kromrif Warrior for 27 points of damage.
+[Sat Nov 12 23:50:44 2022] Fear tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:44 2022] Ebener tries to backstab Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:44 2022] Ebener backstabs Kromrif Warrior for 115 points of damage.
+[Sat Nov 12 23:50:44 2022] Neit tries to backstab Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:44 2022] Rection twitches.
+[Sat Nov 12 23:50:44 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:44 2022] Rhapsodae slashes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:44 2022] Drokia crushes Kromrif Warrior for 11 points of damage.
+[Sat Nov 12 23:50:44 2022] Drokia crushes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:44 2022] Batson pierces Kromrif Warrior for 24 points of damage.
+[Sat Nov 12 23:50:44 2022] Batson Scores a critical hit!(23)
+[Sat Nov 12 23:50:44 2022] Batson pierces Kromrif Warrior for 34 points of damage.
+[Sat Nov 12 23:50:44 2022] Kromrif Warrior tries to hit Batson, but misses!
+[Sat Nov 12 23:50:44 2022] Kromrif Warrior tries to hit Batson, but misses!
+[Sat Nov 12 23:50:44 2022] Bagluak tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:44 2022] Lupony tries to kick Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:44 2022] Zark bashes Kromrif Warrior for 5 points of damage.
+[Sat Nov 12 23:50:44 2022] Wujene tries to kick Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:44 2022] Ebener tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:44 2022] Ebener slashes Kromrif Warrior for 2 points of damage.
+[Sat Nov 12 23:50:44 2022] Wujene crushes Kromrif Warrior for 41 points of damage.
+[Sat Nov 12 23:50:44 2022] Drokia punches Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:44 2022] Drokia punches Kromrif Warrior for 16 points of damage.
+[Sat Nov 12 23:50:44 2022] Zark tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:44 2022] Selush's spell fizzles!
+[Sat Nov 12 23:50:44 2022] Koras tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:44 2022] You can't see your target from here.
+[Sat Nov 12 23:50:45 2022] Batson tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:45 2022] Batson slashes Kromrif Warrior for 1 point of damage.
+[Sat Nov 12 23:50:45 2022] Mezzor crushes Kromrif Warrior for 5 points of damage.
+[Sat Nov 12 23:50:45 2022] Drivethru begins to cast a spell.
+[Sat Nov 12 23:50:45 2022] Vlador begins to cast a spell.
+[Sat Nov 12 23:50:45 2022] You slash Kromrif Warrior for 28 points of damage.
+[Sat Nov 12 23:50:45 2022] You slash Kromrif Warrior for 15 points of damage.
+[Sat Nov 12 23:50:45 2022] Neit pierces Kromrif Warrior for 30 points of damage.
+[Sat Nov 12 23:50:45 2022] Neit pierces Kromrif Warrior for 27 points of damage.
+[Sat Nov 12 23:50:45 2022] Sohail slashes Kromrif Warrior for 27 points of damage.
+[Sat Nov 12 23:50:45 2022] Snaggletooth crushes Kromrif Warrior for 37 points of damage.
+[Sat Nov 12 23:50:45 2022] Fear crushes Kromrif Warrior for 48 points of damage.
+[Sat Nov 12 23:50:45 2022] Fear tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:45 2022] Batson tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:45 2022] Kromrif Warrior tries to kick Zark, but misses!
+[Sat Nov 12 23:50:45 2022] Shortstache begins to cast a spell.
+[Sat Nov 12 23:50:45 2022] Drokia tries to punch Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:45 2022] Neit slashes Kromrif Warrior for 24 points of damage.
+[Sat Nov 12 23:50:45 2022] Neit slashes Kromrif Warrior for 65 points of damage.
+[Sat Nov 12 23:50:45 2022] Selush begins to cast a spell.
+[Sat Nov 12 23:50:45 2022] Kromrif Warrior reels from a stunning blow.
+[Sat Nov 12 23:50:45 2022] Lupony crushes Kromrif Warrior for 42 points of damage.
+[Sat Nov 12 23:50:45 2022] Lupony crushes Kromrif Warrior for 59 points of damage.
+[Sat Nov 12 23:50:45 2022] Rhapsodae slashes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:45 2022] Batson feels much better.
+[Sat Nov 12 23:50:45 2022] Elvishqueen begins to cast a spell.
+[Sat Nov 12 23:50:45 2022] You slash Kromrif Warrior for 1 point of damage.
+[Sat Nov 12 23:50:45 2022] You slash Kromrif Warrior for 11 points of damage.
+[Sat Nov 12 23:50:45 2022] Maldis begins to cast a spell.
+[Sat Nov 12 23:50:45 2022] You can't see your target from here.
+[Sat Nov 12 23:50:45 2022] Ebener pierces Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:45 2022] You can't see your target from here.
+[Sat Nov 12 23:50:46 2022] You slash Kromrif Warrior for 27 points of damage.
+[Sat Nov 12 23:50:46 2022] Karolus Scores a critical hit!(27)
+[Sat Nov 12 23:50:46 2022] You slash Kromrif Warrior for 38 points of damage.
+[Sat Nov 12 23:50:46 2022] Batson is blasted with chlorophyll.
+[Sat Nov 12 23:50:46 2022] Koras tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:46 2022] Koras tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:46 2022] Rhapsodae crushes Kromrif Warrior for 7 points of damage.
+[Sat Nov 12 23:50:46 2022] Batson slashes Kromrif Warrior for 6 points of damage.
+[Sat Nov 12 23:50:46 2022] Batson tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:46 2022] Wujene crushes Kromrif Warrior for 51 points of damage.
+[Sat Nov 12 23:50:46 2022] Wujene tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:46 2022] Snaggletooth tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:46 2022] Snaggletooth tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:46 2022] Griminflamez begins to cast a spell.
+[Sat Nov 12 23:50:46 2022] Drokia punches Kromrif Warrior for 17 points of damage.
+[Sat Nov 12 23:50:46 2022] Drokia punches Kromrif Warrior for 23 points of damage.
+[Sat Nov 12 23:50:46 2022] Fear crushes Kromrif Warrior for 23 points of damage.
+[Sat Nov 12 23:50:46 2022] Ebener slashes Kromrif Warrior for 2 points of damage.
+[Sat Nov 12 23:50:46 2022] Kromrif Warrior was burned.
+[Sat Nov 12 23:50:46 2022] Kromrif Warrior hits Batson for 38 points of damage.
+[Sat Nov 12 23:50:46 2022] Kromrif Warrior was burned.
+[Sat Nov 12 23:50:46 2022] Kromrif Warrior hits Batson for 74 points of damage.
+[Sat Nov 12 23:50:46 2022] Neit pierces Kromrif Warrior for 45 points of damage.
+[Sat Nov 12 23:50:46 2022] Neit pierces Kromrif Warrior for 38 points of damage.
+[Sat Nov 12 23:50:46 2022] Sohail slashes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:46 2022] Kromrif Warrior singes as the Burst of Flame hits them.
+[Sat Nov 12 23:50:46 2022] Batson feels a little better.
+[Sat Nov 12 23:50:46 2022] Zark slashes Kromrif Warrior for 37 points of damage.
+[Sat Nov 12 23:50:46 2022] Zark slashes Kromrif Warrior for 169 points of damage.
+[Sat Nov 12 23:50:46 2022] Bagluak tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:46 2022] You slash Kromrif Warrior for 7 points of damage.
+[Sat Nov 12 23:50:46 2022] Dengle begins to cast a spell.
+[Sat Nov 12 23:50:46 2022] You can't see your target from here.
+[Sat Nov 12 23:50:46 2022] Drokia tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:46 2022] Drokia crushes Kromrif Warrior for 8 points of damage.
+[Sat Nov 12 23:50:46 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:46 2022] Sohail crushes Kromrif Warrior for 16 points of damage.
+[Sat Nov 12 23:50:46 2022] Rhapsodae slashes Kromrif Warrior for 15 points of damage.
+[Sat Nov 12 23:50:46 2022] You can't see your target from here.
+[Sat Nov 12 23:50:47 2022] Batson pierces Kromrif Warrior for 22 points of damage.
+[Sat Nov 12 23:50:47 2022] Batson tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:47 2022] Selush beams a smile at Kromrif Warrior
+[Sat Nov 12 23:50:47 2022] Kromrif Warrior staggers.
+[Sat Nov 12 23:50:47 2022] Rhapsodae crushes Kromrif Warrior for 1 point of damage.
+[Sat Nov 12 23:50:47 2022] Drokia tries to punch Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:47 2022] Drokia tries to punch Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:47 2022] Ebener pierces Kromrif Warrior for 15 points of damage.
+[Sat Nov 12 23:50:47 2022] Fear tries to bash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:47 2022] Koras slashes Kromrif Warrior for 42 points of damage.
+[Sat Nov 12 23:50:47 2022] Neit tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:47 2022] You can't see your target from here.
+[Sat Nov 12 23:50:48 2022] Kromrif Warrior tries to hit Snaggletooth, but misses!
+[Sat Nov 12 23:50:48 2022] Snaggletooth tries to crush Kromrif Warrior, but Kromrif Warrior ripostes!
+[Sat Nov 12 23:50:48 2022] Snaggletooth tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:48 2022] Fear crushes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:48 2022] Fear tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:48 2022] Drokia kicks Kromrif Warrior for 42 points of damage.
+[Sat Nov 12 23:50:48 2022] Neit pierces Kromrif Warrior for 20 points of damage.
+[Sat Nov 12 23:50:48 2022] Neit pierces Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:48 2022] Kromrif Warrior begins to spin from one hundred blows.
+[Sat Nov 12 23:50:48 2022] Wujene crushes Kromrif Warrior for 41 points of damage.
+[Sat Nov 12 23:50:48 2022] Wujene crushes Kromrif Warrior for 40 points of damage.
+[Sat Nov 12 23:50:48 2022] Wujene crushes Kromrif Warrior for 32 points of damage.
+[Sat Nov 12 23:50:48 2022] Zrelik the Scout shouts 'All able Coldain, come to me at once!'
+[Sat Nov 12 23:50:48 2022] Shortstache's casting is interrupted!
+[Sat Nov 12 23:50:48 2022] Lupony tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:48 2022] Lupony crushes Kromrif Warrior for 42 points of damage.
+[Sat Nov 12 23:50:48 2022] Garadain Glacierbane shouts 'For the Dain, Charge!'
+[Sat Nov 12 23:50:48 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:48 2022] You slash Kromrif Warrior for 18 points of damage.
+[Sat Nov 12 23:50:48 2022] You slash Kromrif Warrior for 22 points of damage.
+[Sat Nov 12 23:50:48 2022] Torlanson crushes Kromrif Warrior for 30 points of damage.
+[Sat Nov 12 23:50:48 2022] Sohail slashes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:48 2022] Batson tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:48 2022] Batson pierces Kromrif Warrior for 16 points of damage.
+[Sat Nov 12 23:50:48 2022] Batson pierces Kromrif Warrior for 35 points of damage.
+[Sat Nov 12 23:50:48 2022] Drokia tries to punch Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:48 2022] Drokia punches Kromrif Warrior for 24 points of damage.
+[Sat Nov 12 23:50:48 2022] Drokia crushes Kromrif Warrior for 28 points of damage.
+[Sat Nov 12 23:50:48 2022] You can't see your target from here.
+[Sat Nov 12 23:50:48 2022] Ebener tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:48 2022] Ebener tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:48 2022] Kromrif Warrior was tormented.
+[Sat Nov 12 23:50:48 2022] Kromrif Warrior hits Zark for 98 points of damage.
+[Sat Nov 12 23:50:48 2022] Rhapsodae slashes Kromrif Warrior for 21 points of damage.
+[Sat Nov 12 23:50:48 2022] Koras slashes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:48 2022] Ebener pierces Kromrif Warrior for 25 points of damage.
+[Sat Nov 12 23:50:48 2022] Ebener pierces Kromrif Warrior for 25 points of damage.
+[Sat Nov 12 23:50:48 2022] Pelagian slashes Kromrif Warrior for 33 points of damage.
+[Sat Nov 12 23:50:48 2022] Snaggletooth crushes Kromrif Warrior for 23 points of damage.
+[Sat Nov 12 23:50:48 2022] Zark slashes Kromrif Warrior for 89 points of damage.
+[Sat Nov 12 23:50:48 2022] You slash Kromrif Warrior for 30 points of damage.
+[Sat Nov 12 23:50:48 2022] You slash Kromrif Warrior for 35 points of damage.
+[Sat Nov 12 23:50:48 2022] Fear tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:48 2022] Fear crushes Kromrif Warrior for 23 points of damage.
+[Sat Nov 12 23:50:48 2022] You can't see your target from here.
+[Sat Nov 12 23:50:49 2022] Drokia tries to punch Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:49 2022] Drokia punches Kromrif Warrior for 16 points of damage.
+[Sat Nov 12 23:50:49 2022] Phubok begins to cast a spell.
+[Sat Nov 12 23:50:49 2022] Lupony tries to kick Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:49 2022] You slash Kromrif Warrior for 1 point of damage.
+[Sat Nov 12 23:50:49 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:49 2022] Batson pierces Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:49 2022] Batson tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:49 2022] Neit pierces Kromrif Warrior for 37 points of damage.
+[Sat Nov 12 23:50:49 2022] Neit pierces Kromrif Warrior for 23 points of damage.
+[Sat Nov 12 23:50:49 2022] Bagluak tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:49 2022] Sohail crushes Kromrif Warrior for 19 points of damage.
+[Sat Nov 12 23:50:49 2022] Neit tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:49 2022] Neit tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:49 2022] You can't see your target from here.
+[Sat Nov 12 23:50:49 2022] Rhapsodae crushes Kromrif Warrior for 18 points of damage.
+[Sat Nov 12 23:50:49 2022] Wujene crushes Kromrif Warrior for 67 points of damage.
+[Sat Nov 12 23:50:49 2022] Wujene crushes Kromrif Warrior for 55 points of damage.
+[Sat Nov 12 23:50:49 2022] Sohail slashes Kromrif Warrior for 18 points of damage.
+[Sat Nov 12 23:50:49 2022] Drokia tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:49 2022] Drokia crushes Kromrif Warrior for 24 points of damage.
+[Sat Nov 12 23:50:49 2022] Drivethru begins to cast a spell.
+[Sat Nov 12 23:50:49 2022] Neit backstabs Kromrif Warrior for 120 points of damage.
+[Sat Nov 12 23:50:49 2022] Ebener backstabs Kromrif Warrior for 95 points of damage.
+[Sat Nov 12 23:50:49 2022] Ebener backstabs Kromrif Warrior for 109 points of damage.
+[Sat Nov 12 23:50:49 2022] Drokia punches Kromrif Warrior for 18 points of damage.
+[Sat Nov 12 23:50:49 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:49 2022] You slash Kromrif Warrior for 31 points of damage.
+[Sat Nov 12 23:50:49 2022] Koras slashes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:49 2022] Koras slashes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:49 2022] You can't see your target from here.
+[Sat Nov 12 23:50:49 2022] Pelagian tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:49 2022] Pelagian slashes Kromrif Warrior for 39 points of damage.
+[Sat Nov 12 23:50:50 2022] Snaggletooth tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:50 2022] Ebener tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:50 2022] Ebener pierces Kromrif Warrior for 39 points of damage.
+[Sat Nov 12 23:50:50 2022] Rhapsodae slashes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:50 2022] Fear tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:50 2022] Fear tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:50 2022] You slash Kromrif Warrior for 11 points of damage.
+[Sat Nov 12 23:50:50 2022] You slash Kromrif Warrior for 1 point of damage.
+[Sat Nov 12 23:50:50 2022] Lupony crushes Kromrif Warrior for 42 points of damage.
+[Sat Nov 12 23:50:50 2022] Lupony tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:50 2022] Sohail tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:50 2022] Dengle's casting is interrupted!
+[Sat Nov 12 23:50:50 2022] Neit pierces Kromrif Warrior for 40 points of damage.
+[Sat Nov 12 23:50:50 2022] Rhapsodae crushes Kromrif Warrior for 10 points of damage.
+[Sat Nov 12 23:50:50 2022] You can't see your target from here.
+[Sat Nov 12 23:50:50 2022] Kromrif Warrior tries to hit Zark, but Zark dodges!
+[Sat Nov 12 23:50:50 2022] Drokia punches Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:50 2022] Drokia tries to punch Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:50 2022] Drokia tries to punch Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:50 2022] Granix is surrounded by a brief lupine aura.
+[Sat Nov 12 23:50:50 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:50 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:50 2022] Wujene tries to kick Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:50 2022] Zark slashes Kromrif Warrior for 37 points of damage.
+[Sat Nov 12 23:50:50 2022] Drokia crushes Kromrif Warrior for 15 points of damage.
+[Sat Nov 12 23:50:50 2022] You can't see your target from here.
+[Sat Nov 12 23:50:50 2022] Wujene crushes Kromrif Warrior for 99 points of damage.
+[Sat Nov 12 23:50:50 2022] Sohail tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:50 2022] Chimaira crushes Kromrif Warrior for 74 points of damage.
+[Sat Nov 12 23:50:50 2022] Koras tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:50 2022] Pelagian slashes Kromrif Warrior for 16 points of damage.
+[Sat Nov 12 23:50:50 2022] Pelagian slashes Kromrif Warrior for 30 points of damage.
+[Sat Nov 12 23:50:50 2022] Snaggletooth crushes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:50 2022] Snaggletooth crushes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:50 2022] You slash Kromrif Warrior for 7 points of damage.
+[Sat Nov 12 23:50:50 2022] You slash Kromrif Warrior for 1 point of damage.
+[Sat Nov 12 23:50:51 2022] Ebener pierces Kromrif Warrior for 25 points of damage.
+[Sat Nov 12 23:50:51 2022] Ebener pierces Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:51 2022] Fear crushes Kromrif Warrior for 36 points of damage.
+[Sat Nov 12 23:50:51 2022] Fear crushes Kromrif Warrior for 34 points of damage.
+[Sat Nov 12 23:50:51 2022] Bagluak tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:51 2022] Drokia punches Kromrif Warrior for 34 points of damage.
+[Sat Nov 12 23:50:51 2022] Rhapsodae slashes Kromrif Warrior for 35 points of damage.
+[Sat Nov 12 23:50:51 2022] Rhapsodae tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:51 2022] Granix is enveloped by a swirling maelstrom.
+[Sat Nov 12 23:50:51 2022] Cilo begins to cast a spell.
+[Sat Nov 12 23:50:51 2022] Chimaira kicks Kromrif Warrior for 42 points of damage.
+[Sat Nov 12 23:50:51 2022] Karolus Scores a critical hit!(32)
+[Sat Nov 12 23:50:51 2022] You slash Kromrif Warrior for 43 points of damage.
+[Sat Nov 12 23:50:51 2022] You slash Kromrif Warrior for 25 points of damage.
+[Sat Nov 12 23:50:51 2022] Neit pierces Kromrif Warrior for 63 points of damage.
+[Sat Nov 12 23:50:51 2022] Neit tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:51 2022] You can't see your target from here.
+[Sat Nov 12 23:50:51 2022] Zrelik the Scout shouts 'All able Coldain, come to me at once!'
+[Sat Nov 12 23:50:51 2022] Garadain Glacierbane shouts 'For the Dain, Charge!'
+[Sat Nov 12 23:50:51 2022] Batson pierces Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:51 2022] Fear bashes Kromrif Warrior for 4 points of damage.
+[Sat Nov 12 23:50:51 2022] Griminflamez begins to cast a spell.
+[Sat Nov 12 23:50:51 2022] Ebener tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:51 2022] Batson tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:51 2022] Batson tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:51 2022] Iguanodan begins to cast a spell.
+[Sat Nov 12 23:50:51 2022] Drokia tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:51 2022] Drokia crushes Kromrif Warrior for 17 points of damage.
+[Sat Nov 12 23:50:51 2022] Drokia punches Kromrif Warrior for 16 points of damage.
+[Sat Nov 12 23:50:52 2022] You slash Kromrif Warrior for 4 points of damage.
+[Sat Nov 12 23:50:52 2022] Snaggletooth crushes Kromrif Warrior for 32 points of damage.
+[Sat Nov 12 23:50:52 2022] Snaggletooth crushes Kromrif Warrior for 25 points of damage.
+[Sat Nov 12 23:50:52 2022] Pelagian tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:52 2022] Pelagian slashes Kromrif Warrior for 28 points of damage.
+[Sat Nov 12 23:50:52 2022] Lupony crushes Kromrif Warrior for 42 points of damage.
+[Sat Nov 12 23:50:52 2022] Lupony tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:52 2022] Rhapsodae crushes Kromrif Warrior for 14 points of damage.
+[Sat Nov 12 23:50:52 2022] Fear tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:52 2022] Fear tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:52 2022] Your target is too far away, get closer!
+[Sat Nov 12 23:50:52 2022] Ebener tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:52 2022] Batson pierces Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:52 2022] Batson tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:52 2022] Zark tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:52 2022] Zark slashes Kromrif Warrior for 93 points of damage.
+[Sat Nov 12 23:50:52 2022] Kromrif Warrior is surrounded by flickering flames.
+[Sat Nov 12 23:50:52 2022] Batson tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:52 2022] Batson tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:52 2022] Drokia punches Kromrif Warrior for 23 points of damage.
+[Sat Nov 12 23:50:52 2022] Drokia tries to punch Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:53 2022] Sohail crushes Kromrif Warrior for 11 points of damage.
+[Sat Nov 12 23:50:53 2022] Your target is too far away, get closer!
+[Sat Nov 12 23:50:53 2022] Moaag begins to cast a spell.
+[Sat Nov 12 23:50:53 2022] Jhova begins to cast a spell.
+[Sat Nov 12 23:50:53 2022] Drokia tries to crush Kromrif Warrior, but Kromrif Warrior parries!
+[Sat Nov 12 23:50:53 2022] Drokia crushes Kromrif Warrior for 18 points of damage.
+[Sat Nov 12 23:50:53 2022] Snaggletooth crushes Kromrif Warrior for 31 points of damage.
+[Sat Nov 12 23:50:53 2022] Your target is too far away, get closer!
+[Sat Nov 12 23:50:53 2022] Koras slashes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:53 2022] Koras slashes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:53 2022] Pelagian tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:53 2022] Pelagian slashes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:53 2022] Batson feels much better.
+[Sat Nov 12 23:50:53 2022] Lupony kicks Kromrif Warrior for 42 points of damage.
+[Sat Nov 12 23:50:53 2022] Bagluak pierces Kromrif Warrior for 15 points of damage.
+[Sat Nov 12 23:50:53 2022] Batson pierces Kromrif Warrior for 21 points of damage.
+[Sat Nov 12 23:50:53 2022] Fear crushes Kromrif Warrior for 28 points of damage.
+[Sat Nov 12 23:50:53 2022] Fear tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:53 2022] Drokia punches Kromrif Warrior for 18 points of damage.
+[Sat Nov 12 23:50:53 2022] Drokia tries to punch Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:53 2022] Wujene crushes Kromrif Warrior for 46 points of damage.
+[Sat Nov 12 23:50:53 2022] Wujene crushes Kromrif Warrior for 38 points of damage.
+[Sat Nov 12 23:50:54 2022] Your target is too far away, get closer!
+[Sat Nov 12 23:50:54 2022] Your target is too far away, get closer!
+[Sat Nov 12 23:50:54 2022] Snaggletooth tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:54 2022] Snaggletooth crushes Kromrif Warrior for 33 points of damage.
+[Sat Nov 12 23:50:54 2022] Pelagian tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:54 2022] Pelagian slashes Kromrif Warrior for 25 points of damage.
+[Sat Nov 12 23:50:54 2022] Zark slashes Kromrif Warrior for 37 points of damage.
+[Sat Nov 12 23:50:54 2022] Zark slashes Kromrif Warrior for 37 points of damage.
+[Sat Nov 12 23:50:54 2022] You can't see your target from here.
+[Sat Nov 12 23:50:55 2022] Propyl begins to cast a spell.
+[Sat Nov 12 23:50:55 2022] Batson kicks Kromrif Warrior for 1 point of damage.
+[Sat Nov 12 23:50:55 2022] Ebener pierces Kromrif Warrior for 25 points of damage.
+[Sat Nov 12 23:50:55 2022] Batson slashes Kromrif Warrior for 1 point of damage.
+[Sat Nov 12 23:50:55 2022] Batson slashes Kromrif Warrior for 22 points of damage.
+[Sat Nov 12 23:50:55 2022] Ebener tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:55 2022] Zark tries to bash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:55 2022] Ebener backstabs Kromrif Warrior for 84 points of damage.
+[Sat Nov 12 23:50:55 2022] Ebener backstabs Kromrif Warrior for 84 points of damage.
+[Sat Nov 12 23:50:55 2022] Batson pierces Kromrif Warrior for 25 points of damage.
+[Sat Nov 12 23:50:55 2022] Batson pierces Kromrif Warrior for 41 points of damage.
+[Sat Nov 12 23:50:55 2022] Moaag's casting is interrupted!
+[Sat Nov 12 23:50:55 2022] Wujene crushes Kromrif Warrior for 32 points of damage.
+[Sat Nov 12 23:50:55 2022] Drokia punches Kromrif Warrior for 23 points of damage.
+[Sat Nov 12 23:50:55 2022] Drokia tries to kick Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:55 2022] Kromrif Warrior is lacerated by deadly steel.
+[Sat Nov 12 23:50:55 2022] Snaggletooth crushes Kromrif Warrior for 78 points of damage.
+[Sat Nov 12 23:50:55 2022] Snaggletooth crushes Kromrif Warrior for 36 points of damage.
+[Sat Nov 12 23:50:55 2022] Chimaira tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:55 2022] Chimaira crushes Kromrif Warrior for 51 points of damage.
+[Sat Nov 12 23:50:55 2022] Drokia crushes Kromrif Warrior for 8 points of damage.
+[Sat Nov 12 23:50:55 2022] Pelagian tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:55 2022] Pelagian slashes Kromrif Warrior for 68 points of damage.
+[Sat Nov 12 23:50:55 2022] Fear tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:55 2022] Fear crushes Kromrif Warrior for 61 points of damage.
+[Sat Nov 12 23:50:55 2022] Karolus Scores a critical hit!(34)
+[Sat Nov 12 23:50:55 2022] You slash Kromrif Warrior for 45 points of damage.
+[Sat Nov 12 23:50:55 2022] You slash Kromrif Warrior for 19 points of damage.
+[Sat Nov 12 23:50:56 2022] Drokia punches Kromrif Warrior for 22 points of damage.
+[Sat Nov 12 23:50:56 2022] Drokia punches Kromrif Warrior for 21 points of damage.
+[Sat Nov 12 23:50:56 2022] Batson tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:56 2022] Chimaira kicks Kromrif Warrior for 42 points of damage.
+[Sat Nov 12 23:50:56 2022] Fear bashes Kromrif Warrior for 1 point of damage.
+[Sat Nov 12 23:50:56 2022] Ebener pierces Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:56 2022] Zark slashes Kromrif Warrior for 48 points of damage.
+[Sat Nov 12 23:50:56 2022] Lupony crushes Kromrif Warrior for 52 points of damage.
+[Sat Nov 12 23:50:56 2022] Lupony tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:56 2022] Slizzic begins to cast a spell.
+[Sat Nov 12 23:50:56 2022] Monik crushes Kromrif Warrior for 38 points of damage.
+[Sat Nov 12 23:50:56 2022] Monik crushes Kromrif Warrior for 128 points of damage.
+[Sat Nov 12 23:50:56 2022] Monik crushes Kromrif Warrior for 38 points of damage.
+[Sat Nov 12 23:50:56 2022] Snaggletooth crushes Kromrif Warrior for 37 points of damage.
+[Sat Nov 12 23:50:56 2022] Snaggletooth crushes Kromrif Warrior for 35 points of damage.
+[Sat Nov 12 23:50:56 2022] You try to kick Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:56 2022] Wujene crushes Kromrif Warrior for 41 points of damage.
+[Sat Nov 12 23:50:56 2022] Wujene crushes Kromrif Warrior for 87 points of damage.
+[Sat Nov 12 23:50:56 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:56 2022] Koras slashes Kromrif Warrior for 18 points of damage.
+[Sat Nov 12 23:50:56 2022] Koras slashes Kromrif Warrior for 34 points of damage.
+[Sat Nov 12 23:50:56 2022] Pelagian slashes Kromrif Warrior for 87 points of damage.
+[Sat Nov 12 23:50:56 2022] Drokia punches Kromrif Warrior for 30 points of damage.
+[Sat Nov 12 23:50:56 2022] Ebener tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:56 2022] Ebener tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:56 2022] Drokia crushes Kromrif Warrior for 21 points of damage.
+[Sat Nov 12 23:50:56 2022] Drokia tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:57 2022] Batson tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:57 2022] Fear crushes Kromrif Warrior for 39 points of damage.
+[Sat Nov 12 23:50:57 2022] Fear crushes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:57 2022] Chimaira crushes Kromrif Warrior for 63 points of damage.
+[Sat Nov 12 23:50:57 2022] Batson tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:57 2022] Batson slashes Kromrif Warrior for 27 points of damage.
+[Sat Nov 12 23:50:57 2022] Grooot crushes Kromrif Warrior for 111 points of damage.
+[Sat Nov 12 23:50:57 2022] Grooot crushes Kromrif Warrior for 57 points of damage.
+[Sat Nov 12 23:50:57 2022] You can't see your target from here.
+[Sat Nov 12 23:50:57 2022] Ebener pierces Kromrif Warrior for 28 points of damage.
+[Sat Nov 12 23:50:57 2022] Ebener pierces Kromrif Warrior for 26 points of damage.
+[Sat Nov 12 23:50:57 2022] Ashmore pierces Kromrif Warrior for 38 points of damage.
+[Sat Nov 12 23:50:57 2022] Ashmore pierces Kromrif Warrior for 25 points of damage.
+[Sat Nov 12 23:50:57 2022] Lupony tries to kick Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:57 2022] Drokia punches Kromrif Warrior for 26 points of damage.
+[Sat Nov 12 23:50:57 2022] Snaggletooth crushes Kromrif Warrior for 13 points of damage.
+[Sat Nov 12 23:50:57 2022] Snaggletooth tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:57 2022] Uhhhhh is blasted with chlorophyll.
+[Sat Nov 12 23:50:57 2022] Batson pierces Kromrif Warrior for 24 points of damage.
+[Sat Nov 12 23:50:57 2022] Batson tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:58 2022] Koras tries to slash Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:58 2022] Drokia tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:58 2022] Drokia crushes Kromrif Warrior for 2 points of damage.
+[Sat Nov 12 23:50:58 2022] Fear crushes Kromrif Warrior for 33 points of damage.
+[Sat Nov 12 23:50:58 2022] Fear crushes Kromrif Warrior for 55 points of damage.
+[Sat Nov 12 23:50:58 2022] Sohail tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:58 2022] Griminflamez begins to cast a spell.
+[Sat Nov 12 23:50:58 2022] Wujene crushes Kromrif Warrior for 32 points of damage.
+[Sat Nov 12 23:50:58 2022] Wujene crushes Kromrif Warrior for 32 points of damage.
+[Sat Nov 12 23:50:58 2022] Wujene crushes Kromrif Warrior for 62 points of damage.
+[Sat Nov 12 23:50:58 2022] Zark slashes Kromrif Warrior for 37 points of damage.
+[Sat Nov 12 23:50:58 2022] Zark slashes Kromrif Warrior for 37 points of damage.
+[Sat Nov 12 23:50:58 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:58 2022] Drokia punches Kromrif Warrior for 18 points of damage.
+[Sat Nov 12 23:50:58 2022] Lupony tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:58 2022] Lupony crushes Kromrif Warrior for 99 points of damage.
+[Sat Nov 12 23:50:58 2022] Lupony crushes Kromrif Warrior for 42 points of damage.
+[Sat Nov 12 23:50:58 2022] Monik crushes Kromrif Warrior for 115 points of damage.
+[Sat Nov 12 23:50:58 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:58 2022] You slash Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:58 2022] You try to slash Kromrif Warrior, but miss!
+[Sat Nov 12 23:50:58 2022] Chimaira tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:58 2022] Chimaira crushes Kromrif Warrior for 63 points of damage.
+[Sat Nov 12 23:50:58 2022] Chimaira tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:58 2022] Batson pierces Kromrif Warrior for 28 points of damage.
+[Sat Nov 12 23:50:58 2022] Batson pierces Kromrif Warrior for 24 points of damage.
+[Sat Nov 12 23:50:58 2022] Ebener pierces Kromrif Warrior for 18 points of damage.
+[Sat Nov 12 23:50:59 2022] Ebener pierces Kromrif Warrior for 12 points of damage.
+[Sat Nov 12 23:50:59 2022] Ashmore pierces Kromrif Warrior for 36 points of damage.
+[Sat Nov 12 23:50:59 2022] Ashmore tries to pierce Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:59 2022] Snaggletooth crushes Kromrif Warrior for 24 points of damage.
+[Sat Nov 12 23:50:59 2022] Snaggletooth tries to crush Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:59 2022] Sohail slashes Kromrif Warrior for 35 points of damage.
+[Sat Nov 12 23:50:59 2022] Monik tries to kick Kromrif Warrior, but misses!
+[Sat Nov 12 23:50:59 2022] Sohail crushes Kromrif Warrior for 4 points of damage.
+[Sat Nov 12 23:50:59 2022] Ashmore backstabs Kromrif Warrior for 180 points of damage.
+[Sat Nov 12 23:50:59 2022] Kromrif Warrior has been slain by Ashmore!
+[Sat Nov 12 23:50:59 2022] Your faction standing with ClawsofVeeshan got better.
+[Sat Nov 12 23:50:59 2022] Your faction standing with Coldain could not possibly get any better.
+[Sat Nov 12 23:50:59 2022] Your faction standing with Kromrif could not possibly get any worse.
+[Sat Nov 12 23:50:59 2022] Your faction standing with Kromzek could not possibly get any worse.
+[Sat Nov 12 23:50:59 2022] Lamellar begins to cast a spell.

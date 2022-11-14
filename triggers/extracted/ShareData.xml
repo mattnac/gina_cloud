@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SharedData>
+  <TriggerGroups>
+    <TriggerGroup>
+      <Name>Class</Name>
+      <Comments></Comments>
+      <SelfCommented>False</SelfCommented>
+      <GroupId>0</GroupId>
+      <EnableByDefault>False</EnableByDefault>
+      <TriggerGroups>
+        <TriggerGroup>
+          <Name>SHAMAN</Name>
+          <Comments></Comments>
+          <SelfCommented>False</SelfCommented>
+          <GroupId>0</GroupId>
+          <EnableByDefault>False</EnableByDefault>
+          <Triggers>
+            <Trigger>
+              <Name>malo</Name>
+              <TriggerText>(?&lt;mob&gt;.*) looks very uncomfortable</TriggerText>
+              <Comments></Comments>
+              <EnableRegex>True</EnableRegex>
+              <UseText>True</UseText>
+              <DisplayText>malo ${MOB}</DisplayText>
+              <CopyToClipboard>True</CopyToClipboard>
+              <ClipboardText>/g malo ${MOB}</ClipboardText>
+              <UseTextToVoice>True</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText>malo ${MOB}</TextToVoiceText>
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>Timer</TimerType>
+              <TimerName>malo ${MOB}</TimerName>
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>608000</TimerMillisecondDuration>
+              <TimerDuration>608</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>RestartTimer</TimerStartBehavior>
+              <TimerEndingTime>1</TimerEndingTime>
+              <UseTimerEnding>False</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Default</Category>
+              <Modified>2022-11-13T17:31:50</Modified>
+              <UseFastCheck>True</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+          </Triggers>
+        </TriggerGroup>
+      </TriggerGroups>
+    </TriggerGroup>
+  </TriggerGroups>
+</SharedData>

@@ -1,0 +1,1521 @@
+<SharedData>
+  <TriggerGroups>
+    <TriggerGroup>
+      <Name>Common</Name>
+      <Comments />
+      <SelfCommented>False</SelfCommented>
+      <GroupId>0</GroupId>
+      <EnableByDefault>False</EnableByDefault>
+      <TriggerGroups>
+        <TriggerGroup>
+          <Name>General</Name>
+          <Comments />
+          <SelfCommented>False</SelfCommented>
+          <GroupId>0</GroupId>
+          <EnableByDefault>False</EnableByDefault>
+          <TriggerGroups>
+            <TriggerGroup>
+              <Name>debufs</Name>
+              <Comments />
+              <SelfCommented>False</SelfCommented>
+              <GroupId>0</GroupId>
+              <EnableByDefault>False</EnableByDefault>
+              <Triggers>
+                <Trigger>
+                  <Name>sieve</Name>
+                  <TriggerText>^(?&lt;mob&gt;.*) staggers in pain\.$</TriggerText>
+                  <Comments />
+                  <EnableRegex>True</EnableRegex>
+                  <UseText>True</UseText>
+                  <DisplayText>Sieve on ${mob}</DisplayText>
+                  <CopyToClipboard>True</CopyToClipboard>
+                  <ClipboardText>/gu  [ ${mob}  ]  has been sieved {COUNTER} times</ClipboardText>
+                  <UseTextToVoice>True</UseTextToVoice>
+                  <InterruptSpeech>True</InterruptSpeech>
+                  <TextToVoiceText>${mob} sievied  {COUNTER} times</TextToVoiceText>
+                  <PlayMediaFile>False</PlayMediaFile>
+                  <TimerType>Timer</TimerType>
+                  <TimerName>sieve ${mob}</TimerName>
+                  <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+                  <TimerMillisecondDuration>60000</TimerMillisecondDuration>
+                  <TimerDuration>60</TimerDuration>
+                  <TimerVisibleDuration>0</TimerVisibleDuration>
+                  <TimerStartBehavior>RestartTimer</TimerStartBehavior>
+                  <TimerEndingTime>1</TimerEndingTime>
+                  <UseTimerEnding>False</UseTimerEnding>
+                  <UseTimerEnded>False</UseTimerEnded>
+                  <UseCounterResetTimer>False</UseCounterResetTimer>
+                  <CounterResetDuration>0</CounterResetDuration>
+                  <Category>Default</Category>
+                  <Modified>2022-11-13T17:33:33</Modified>
+                  <UseFastCheck>True</UseFastCheck>
+                  <TimerEarlyEnders />
+                </Trigger>
+              </Triggers>
+            </TriggerGroup>
+          </TriggerGroups>
+        </TriggerGroup>
+      </TriggerGroups>
+    </TriggerGroup>
+  </TriggerGroups>
+<TriggerGroups>
+    <TriggerGroup>
+      <Name>Class</Name>
+      <Comments />
+      <SelfCommented>False</SelfCommented>
+      <GroupId>0</GroupId>
+      <EnableByDefault>False</EnableByDefault>
+      <TriggerGroups>
+        <TriggerGroup>
+          <Name>enchanter</Name>
+          <Comments />
+          <SelfCommented>False</SelfCommented>
+          <GroupId>0</GroupId>
+          <EnableByDefault>False</EnableByDefault>
+          <Triggers>
+            <Trigger>
+              <Name>tashani</Name>
+              <TriggerText>(?&lt;mob&gt;.*) glances nervously about</TriggerText>
+              <Comments />
+              <EnableRegex>True</EnableRegex>
+              <UseText>True</UseText>
+              <DisplayText>TASH ${mob}</DisplayText>
+              <CopyToClipboard>True</CopyToClipboard>
+              <ClipboardText>/g TASH ${mob}</ClipboardText>
+              <UseTextToVoice>True</UseTextToVoice>
+              <InterruptSpeech>True</InterruptSpeech>
+              <TextToVoiceText>Tashani Proc</TextToVoiceText>
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>Timer</TimerType>
+              <TimerName>tashani ${mob}</TimerName>
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>600000</TimerMillisecondDuration>
+              <TimerDuration>600</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>RestartTimer</TimerStartBehavior>
+              <TimerEndingTime>1</TimerEndingTime>
+              <UseTimerEnding>False</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Default</Category>
+              <Modified>2022-11-13T17:32:09</Modified>
+              <UseFastCheck>True</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+            <Trigger>
+              <Name>slow</Name>
+              <TriggerText>(?&lt;mob&gt;.*) slows down</TriggerText>
+              <Comments />
+              <EnableRegex>True</EnableRegex>
+              <UseText>True</UseText>
+              <DisplayText>${mob} slowed</DisplayText>
+              <CopyToClipboard>True</CopyToClipboard>
+              <ClipboardText>${mob} slowed</ClipboardText>
+              <UseTextToVoice>True</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText>${mob} slowed</TextToVoiceText>
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>Timer</TimerType>
+              <TimerName>slowed ${mob} </TimerName>
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>180000</TimerMillisecondDuration>
+              <TimerDuration>180</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>RestartTimer</TimerStartBehavior>
+              <TimerEndingTime>1</TimerEndingTime>
+              <UseTimerEnding>False</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Default</Category>
+              <Modified>2022-11-13T17:32:09</Modified>
+              <UseFastCheck>True</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+          </Triggers>
+        </TriggerGroup>
+      </TriggerGroups>
+    </TriggerGroup>
+  </TriggerGroups>
+<TriggerGroups>
+    <TriggerGroup>
+      <Name>Common</Name>
+      <Comments />
+      <SelfCommented>False</SelfCommented>
+      <GroupId>0</GroupId>
+      <EnableByDefault>False</EnableByDefault>
+      <TriggerGroups>
+        <TriggerGroup>
+          <Name>Casting</Name>
+          <Comments />
+          <SelfCommented>False</SelfCommented>
+          <GroupId>0</GroupId>
+          <EnableByDefault>False</EnableByDefault>
+          <Triggers>
+            <Trigger>
+              <Name>Spell interrupted</Name>
+              <TriggerText>Your spell is interrupted.</TriggerText>
+              <Comments />
+              <EnableRegex>False</EnableRegex>
+              <UseText>False</UseText>
+              <DisplayText />
+              <CopyToClipboard>False</CopyToClipboard>
+              <ClipboardText />
+              <UseTextToVoice>True</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText>{C} Interrupted</TextToVoiceText>
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>NoTimer</TimerType>
+              <TimerName />
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>0</TimerMillisecondDuration>
+              <TimerDuration>0</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>StartNewTimer</TimerStartBehavior>
+              <TimerEndingTime>1</TimerEndingTime>
+              <UseTimerEnding>False</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Default</Category>
+              <Modified>2022-11-13T17:32:56</Modified>
+              <UseFastCheck>True</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+            <Trigger>
+              <Name>Spell fizzles</Name>
+              <TriggerText>Your spell fizzles!</TriggerText>
+              <Comments />
+              <EnableRegex>False</EnableRegex>
+              <UseText>False</UseText>
+              <DisplayText />
+              <CopyToClipboard>False</CopyToClipboard>
+              <ClipboardText />
+              <UseTextToVoice>True</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText>{C} fizzles!</TextToVoiceText>
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>NoTimer</TimerType>
+              <TimerName />
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>0</TimerMillisecondDuration>
+              <TimerDuration>0</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>StartNewTimer</TimerStartBehavior>
+              <TimerEndingTime>1</TimerEndingTime>
+              <UseTimerEnding>False</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Default</Category>
+              <Modified>2022-11-13T17:32:56</Modified>
+              <UseFastCheck>True</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+            <Trigger>
+              <Name>Gift of * Mana</Name>
+              <TriggerText>You've been granted a gift of {S} mana!</TriggerText>
+              <Comments />
+              <EnableRegex>True</EnableRegex>
+              <UseText>False</UseText>
+              <DisplayText />
+              <CopyToClipboard>False</CopyToClipboard>
+              <ClipboardText />
+              <UseTextToVoice>True</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText>Free cast for {C}</TextToVoiceText>
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>NoTimer</TimerType>
+              <TimerName />
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>0</TimerMillisecondDuration>
+              <TimerDuration>0</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>StartNewTimer</TimerStartBehavior>
+              <TimerEndingTime>1</TimerEndingTime>
+              <UseTimerEnding>False</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Default</Category>
+              <Modified>2022-11-13T17:32:56</Modified>
+              <UseFastCheck>True</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+            <Trigger>
+              <Name>Insufficient mana</Name>
+              <TriggerText>Insufficient Mana to cast this spell!</TriggerText>
+              <Comments />
+              <EnableRegex>False</EnableRegex>
+              <UseText>True</UseText>
+              <DisplayText>{C} is out of mana</DisplayText>
+              <CopyToClipboard>False</CopyToClipboard>
+              <ClipboardText />
+              <UseTextToVoice>True</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText>{C} is out of mana</TextToVoiceText>
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>NoTimer</TimerType>
+              <TimerName />
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>0</TimerMillisecondDuration>
+              <TimerDuration>0</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>StartNewTimer</TimerStartBehavior>
+              <TimerEndingTime>1</TimerEndingTime>
+              <UseTimerEnding>False</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Default</Category>
+              <Modified>2022-11-13T17:32:56</Modified>
+              <UseFastCheck>True</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+            <Trigger>
+              <Name>Spell resisted</Name>
+              <TriggerText>Your target resisted the {S} spell.</TriggerText>
+              <Comments />
+              <EnableRegex>True</EnableRegex>
+              <UseText>True</UseText>
+              <DisplayText>Resisted {S}</DisplayText>
+              <CopyToClipboard>False</CopyToClipboard>
+              <ClipboardText />
+              <UseTextToVoice>True</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText>{C} was Resisted</TextToVoiceText>
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>NoTimer</TimerType>
+              <TimerName />
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>0</TimerMillisecondDuration>
+              <TimerDuration>0</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>StartNewTimer</TimerStartBehavior>
+              <TimerEndingTime>1</TimerEndingTime>
+              <UseTimerEnding>False</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Default</Category>
+              <Modified>2022-11-13T17:32:56</Modified>
+              <UseFastCheck>True</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+          </Triggers>
+        </TriggerGroup>
+      </TriggerGroups>
+    </TriggerGroup>
+  </TriggerGroups>
+<TriggerGroups>
+    <TriggerGroup>
+      <Name>Class</Name>
+      <Comments />
+      <SelfCommented>False</SelfCommented>
+      <GroupId>0</GroupId>
+      <EnableByDefault>False</EnableByDefault>
+      <TriggerGroups>
+        <TriggerGroup>
+          <Name>SHAMAN</Name>
+          <Comments />
+          <SelfCommented>False</SelfCommented>
+          <GroupId>0</GroupId>
+          <EnableByDefault>False</EnableByDefault>
+          <Triggers>
+            <Trigger>
+              <Name>malo</Name>
+              <TriggerText>(?&lt;mob&gt;.*) looks very uncomfortable</TriggerText>
+              <Comments />
+              <EnableRegex>True</EnableRegex>
+              <UseText>True</UseText>
+              <DisplayText>malo ${MOB}</DisplayText>
+              <CopyToClipboard>True</CopyToClipboard>
+              <ClipboardText>/g malo ${MOB}</ClipboardText>
+              <UseTextToVoice>True</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText>malo ${MOB}</TextToVoiceText>
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>Timer</TimerType>
+              <TimerName>malo ${MOB}</TimerName>
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>608000</TimerMillisecondDuration>
+              <TimerDuration>608</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>RestartTimer</TimerStartBehavior>
+              <TimerEndingTime>1</TimerEndingTime>
+              <UseTimerEnding>False</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Default</Category>
+              <Modified>2022-11-13T17:31:50</Modified>
+              <UseFastCheck>True</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+          </Triggers>
+        </TriggerGroup>
+      </TriggerGroups>
+    </TriggerGroup>
+  </TriggerGroups>
+<TriggerGroups>
+    <TriggerGroup>
+      <Name>Class</Name>
+      <Comments />
+      <SelfCommented>False</SelfCommented>
+      <GroupId>0</GroupId>
+      <EnableByDefault>False</EnableByDefault>
+      <TriggerGroups>
+        <TriggerGroup>
+          <Name>warrior</Name>
+          <Comments />
+          <SelfCommented>False</SelfCommented>
+          <GroupId>0</GroupId>
+          <EnableByDefault>False</EnableByDefault>
+          <Triggers>
+            <Trigger>
+              <Name>ykesha</Name>
+              <TriggerText>(?&lt;mob&gt;.*) was hit by non-melee for 75 points of damage</TriggerText>
+              <Comments />
+              <EnableRegex>True</EnableRegex>
+              <UseText>True</UseText>
+              <DisplayText>${mob} ykesha {COUNTER}</DisplayText>
+              <CopyToClipboard>False</CopyToClipboard>
+              <ClipboardText />
+              <UseTextToVoice>True</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText>Ykesha {COUNTER} ${mob}</TextToVoiceText>
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>NoTimer</TimerType>
+              <TimerName />
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>0</TimerMillisecondDuration>
+              <TimerDuration>0</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>StartNewTimer</TimerStartBehavior>
+              <TimerEndingTime>1</TimerEndingTime>
+              <UseTimerEnding>False</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Default</Category>
+              <Modified>2022-11-13T17:31:25</Modified>
+              <UseFastCheck>True</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+            <Trigger>
+              <Name>Frostbite</Name>
+              <TriggerText>(?&lt;mob&gt;.*) was hit by non-melee for 60 points of damage</TriggerText>
+              <Comments />
+              <EnableRegex>True</EnableRegex>
+              <UseText>True</UseText>
+              <DisplayText>${mob} frostbite {COUNTER}</DisplayText>
+              <CopyToClipboard>False</CopyToClipboard>
+              <ClipboardText />
+              <UseTextToVoice>True</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText>frostbite {COUNTER} ${mob}</TextToVoiceText>
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>NoTimer</TimerType>
+              <TimerName />
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>0</TimerMillisecondDuration>
+              <TimerDuration>0</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>StartNewTimer</TimerStartBehavior>
+              <TimerEndingTime>1</TimerEndingTime>
+              <UseTimerEnding>False</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Default</Category>
+              <Modified>2022-11-13T17:31:25</Modified>
+              <UseFastCheck>False</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+            <Trigger>
+              <Name>infestation</Name>
+              <TriggerText>(?&lt;mob&gt;.*) was hit by non-melee for 12 points of damage</TriggerText>
+              <Comments />
+              <EnableRegex>True</EnableRegex>
+              <UseText>True</UseText>
+              <DisplayText>${mob} infestation {COUNTER}</DisplayText>
+              <CopyToClipboard>False</CopyToClipboard>
+              <ClipboardText />
+              <UseTextToVoice>True</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText>infestation  {COUNTER} ${mob}</TextToVoiceText>
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>NoTimer</TimerType>
+              <TimerName />
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>0</TimerMillisecondDuration>
+              <TimerDuration>0</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>StartNewTimer</TimerStartBehavior>
+              <TimerEndingTime>1</TimerEndingTime>
+              <UseTimerEnding>False</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Default</Category>
+              <Modified>2022-11-13T17:31:25</Modified>
+              <UseFastCheck>True</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+            <Trigger>
+              <Name>FROST STRIKE</Name>
+              <TriggerText>(?&lt;mob&gt;.*) was hit by non-melee for 149 points of damage</TriggerText>
+              <Comments />
+              <EnableRegex>True</EnableRegex>
+              <UseText>True</UseText>
+              <DisplayText>${mob} FROST STRIKE {COUNTER}</DisplayText>
+              <CopyToClipboard>False</CopyToClipboard>
+              <ClipboardText />
+              <UseTextToVoice>True</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText>FROST STRIKE{COUNTER} ${mob}</TextToVoiceText>
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>NoTimer</TimerType>
+              <TimerName />
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>0</TimerMillisecondDuration>
+              <TimerDuration>0</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>StartNewTimer</TimerStartBehavior>
+              <TimerEndingTime>1</TimerEndingTime>
+              <UseTimerEnding>False</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Default</Category>
+              <Modified>2022-11-13T17:31:25</Modified>
+              <UseFastCheck>True</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+            <Trigger>
+              <Name>slow</Name>
+              <TriggerText>(?&lt;mob&gt;.*) yawns</TriggerText>
+              <Comments />
+              <EnableRegex>True</EnableRegex>
+              <UseText>True</UseText>
+              <DisplayText>${mob} is slowed</DisplayText>
+              <CopyToClipboard>True</CopyToClipboard>
+              <ClipboardText>/g ${mob} is slowed</ClipboardText>
+              <UseTextToVoice>True</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText>${mob} is slowed</TextToVoiceText>
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>Timer</TimerType>
+              <TimerName>${mob} is slowed</TimerName>
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>310000</TimerMillisecondDuration>
+              <TimerDuration>310</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>RestartTimer</TimerStartBehavior>
+              <TimerEndingTime>1</TimerEndingTime>
+              <UseTimerEnding>False</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Default</Category>
+              <Modified>2022-11-13T17:31:25</Modified>
+              <UseFastCheck>True</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+          </Triggers>
+        </TriggerGroup>
+      </TriggerGroups>
+    </TriggerGroup>
+  </TriggerGroups>
+<TriggerGroups>
+    <TriggerGroup>
+      <Name>Class</Name>
+      <Comments />
+      <SelfCommented>False</SelfCommented>
+      <GroupId>0</GroupId>
+      <EnableByDefault>False</EnableByDefault>
+      <TriggerGroups>
+        <TriggerGroup>
+          <Name>druid</Name>
+          <Comments />
+          <SelfCommented>False</SelfCommented>
+          <GroupId>0</GroupId>
+          <EnableByDefault>False</EnableByDefault>
+          <TriggerGroups>
+            <TriggerGroup>
+              <Name>POWER LEVEL</Name>
+              <Comments />
+              <SelfCommented>False</SelfCommented>
+              <GroupId>0</GroupId>
+              <EnableByDefault>False</EnableByDefault>
+              <Triggers>
+                <Trigger>
+                  <Name>DMG</Name>
+                  <TriggerText>(?&lt;player&gt;Innah) .* for (?&lt;dmg&gt;[0-9]+) points of damage</TriggerText>
+                  <Comments />
+                  <EnableRegex>True</EnableRegex>
+                  <UseText>True</UseText>
+                  <DisplayText>${player} does ${dmg}</DisplayText>
+                  <CopyToClipboard>False</CopyToClipboard>
+                  <ClipboardText />
+                  <UseTextToVoice>False</UseTextToVoice>
+                  <InterruptSpeech>False</InterruptSpeech>
+                  <TextToVoiceText />
+                  <PlayMediaFile>False</PlayMediaFile>
+                  <TimerType>NoTimer</TimerType>
+                  <TimerName />
+                  <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+                  <TimerMillisecondDuration>0</TimerMillisecondDuration>
+                  <TimerDuration>0</TimerDuration>
+                  <TimerVisibleDuration>0</TimerVisibleDuration>
+                  <TimerStartBehavior>StartNewTimer</TimerStartBehavior>
+                  <TimerEndingTime>1</TimerEndingTime>
+                  <UseTimerEnding>False</UseTimerEnding>
+                  <UseTimerEnded>False</UseTimerEnded>
+                  <UseCounterResetTimer>False</UseCounterResetTimer>
+                  <CounterResetDuration>0</CounterResetDuration>
+                  <Category>Default</Category>
+                  <Modified>2022-11-13T17:32:21</Modified>
+                  <UseFastCheck>False</UseFastCheck>
+                  <TimerEarlyEnders />
+                </Trigger>
+              </Triggers>
+            </TriggerGroup>
+            <TriggerGroup>
+              <Name>disabled</Name>
+              <Comments />
+              <SelfCommented>False</SelfCommented>
+              <GroupId>0</GroupId>
+              <EnableByDefault>False</EnableByDefault>
+              <Triggers>
+                <Trigger>
+                  <Name>regen</Name>
+                  <TriggerText>(?&lt;player&gt;.*) begins? to regenerate</TriggerText>
+                  <Comments />
+                  <EnableRegex>True</EnableRegex>
+                  <UseText>True</UseText>
+                  <DisplayText>REGEN: ${player}</DisplayText>
+                  <CopyToClipboard>False</CopyToClipboard>
+                  <ClipboardText />
+                  <UseTextToVoice>False</UseTextToVoice>
+                  <InterruptSpeech>False</InterruptSpeech>
+                  <TextToVoiceText />
+                  <PlayMediaFile>False</PlayMediaFile>
+                  <TimerType>Timer</TimerType>
+                  <TimerName>REGEN: ${player}</TimerName>
+                  <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+                  <TimerMillisecondDuration>855000</TimerMillisecondDuration>
+                  <TimerDuration>855</TimerDuration>
+                  <TimerVisibleDuration>0</TimerVisibleDuration>
+                  <TimerStartBehavior>StartNewTimer</TimerStartBehavior>
+                  <TimerEndingTime>3</TimerEndingTime>
+                  <UseTimerEnding>True</UseTimerEnding>
+                  <UseTimerEnded>True</UseTimerEnded>
+                  <TimerEndingTrigger>
+                    <UseText>False</UseText>
+                    <DisplayText />
+                    <UseTextToVoice>False</UseTextToVoice>
+                    <InterruptSpeech>False</InterruptSpeech>
+                    <TextToVoiceText />
+                    <PlayMediaFile>False</PlayMediaFile>
+                  </TimerEndingTrigger>
+                  <TimerEndedTrigger>
+                    <UseText>False</UseText>
+                    <DisplayText />
+                    <UseTextToVoice>True</UseTextToVoice>
+                    <InterruptSpeech>False</InterruptSpeech>
+                    <TextToVoiceText>REGEN ending on ${player}</TextToVoiceText>
+                    <PlayMediaFile>False</PlayMediaFile>
+                  </TimerEndedTrigger>
+                  <UseCounterResetTimer>False</UseCounterResetTimer>
+                  <CounterResetDuration>0</CounterResetDuration>
+                  <Category>Buffs</Category>
+                  <Modified>2022-11-13T17:32:21</Modified>
+                  <UseFastCheck>False</UseFastCheck>
+                  <TimerEarlyEnders />
+                </Trigger>
+              </Triggers>
+            </TriggerGroup>
+          </TriggerGroups>
+          <Triggers>
+            <Trigger>
+              <Name>creeping crud</Name>
+              <TriggerText>(?&lt;mob&gt;.*) is engulfed in a swarm</TriggerText>
+              <Comments />
+              <EnableRegex>True</EnableRegex>
+              <UseText>False</UseText>
+              <DisplayText />
+              <CopyToClipboard>False</CopyToClipboard>
+              <ClipboardText />
+              <UseTextToVoice>False</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText />
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>Timer</TimerType>
+              <TimerName>[creeping crud] ${mob}</TimerName>
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>60000</TimerMillisecondDuration>
+              <TimerDuration>60</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>StartNewTimer</TimerStartBehavior>
+              <TimerEndingTime>5</TimerEndingTime>
+              <UseTimerEnding>True</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <TimerEndingTrigger>
+                <UseText>True</UseText>
+                <DisplayText>DOT ENDING ON ${mob}</DisplayText>
+                <UseTextToVoice>True</UseTextToVoice>
+                <InterruptSpeech>False</InterruptSpeech>
+                <TextToVoiceText>DOT ENDING ON ${mob}</TextToVoiceText>
+                <PlayMediaFile>False</PlayMediaFile>
+              </TimerEndingTrigger>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Spells</Category>
+              <Modified>2022-11-13T17:32:21</Modified>
+              <UseFastCheck>False</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+            <Trigger>
+              <Name>Roots off</Name>
+              <TriggerText>Your (.*) Roots spell has worn off</TriggerText>
+              <Comments />
+              <EnableRegex>True</EnableRegex>
+              <UseText>True</UseText>
+              <DisplayText>Root is off</DisplayText>
+              <CopyToClipboard>False</CopyToClipboard>
+              <ClipboardText />
+              <UseTextToVoice>True</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText>Root is off</TextToVoiceText>
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>NoTimer</TimerType>
+              <TimerName />
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>0</TimerMillisecondDuration>
+              <TimerDuration>0</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>StartNewTimer</TimerStartBehavior>
+              <TimerEndingTime>1</TimerEndingTime>
+              <UseTimerEnding>False</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Spells</Category>
+              <Modified>2022-11-13T17:32:21</Modified>
+              <UseFastCheck>False</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+            <Trigger>
+              <Name>DS</Name>
+              <TriggerText>(?&lt;player&gt;.*) ((is)|(are)) surrounded by a thorny barrier</TriggerText>
+              <Comments />
+              <EnableRegex>True</EnableRegex>
+              <UseText>False</UseText>
+              <DisplayText />
+              <CopyToClipboard>False</CopyToClipboard>
+              <ClipboardText />
+              <UseTextToVoice>False</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText />
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>Timer</TimerType>
+              <TimerName>DS: ${player}</TimerName>
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>295000</TimerMillisecondDuration>
+              <TimerDuration>295</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>StartNewTimer</TimerStartBehavior>
+              <TimerEndingTime>9</TimerEndingTime>
+              <UseTimerEnding>True</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <TimerEndingTrigger>
+                <UseText>True</UseText>
+                <DisplayText>DS ending: ${player}</DisplayText>
+                <UseTextToVoice>True</UseTextToVoice>
+                <InterruptSpeech>False</InterruptSpeech>
+                <TextToVoiceText>Damage shield ending on  ${player}</TextToVoiceText>
+                <PlayMediaFile>False</PlayMediaFile>
+              </TimerEndingTrigger>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Buffs</Category>
+              <Modified>2022-11-13T17:32:21</Modified>
+              <UseFastCheck>False</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+            <Trigger>
+              <Name>Skin</Name>
+              <TriggerText>(?&lt;player&gt;(.*'s)|(Your)) skin turns hard as (?&lt;type&gt;.*)</TriggerText>
+              <Comments />
+              <EnableRegex>True</EnableRegex>
+              <UseText>False</UseText>
+              <DisplayText />
+              <CopyToClipboard>False</CopyToClipboard>
+              <ClipboardText />
+              <UseTextToVoice>False</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText />
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>Timer</TimerType>
+              <TimerName>Skin like ${type}: ${player}</TimerName>
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>3240000</TimerMillisecondDuration>
+              <TimerDuration>3240</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>StartNewTimer</TimerStartBehavior>
+              <TimerEndingTime>10</TimerEndingTime>
+              <UseTimerEnding>True</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <TimerEndingTrigger>
+                <UseText>False</UseText>
+                <DisplayText />
+                <UseTextToVoice>True</UseTextToVoice>
+                <InterruptSpeech>False</InterruptSpeech>
+                <TextToVoiceText>Skin is ending on ${player}</TextToVoiceText>
+                <PlayMediaFile>False</PlayMediaFile>
+              </TimerEndingTrigger>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Buffs</Category>
+              <Modified>2022-11-13T17:32:21</Modified>
+              <UseFastCheck>True</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+            <Trigger>
+              <Name>Strength of earth ME</Name>
+              <TriggerText>You feel stronger</TriggerText>
+              <Comments />
+              <EnableRegex>False</EnableRegex>
+              <UseText>False</UseText>
+              <DisplayText />
+              <CopyToClipboard>False</CopyToClipboard>
+              <ClipboardText />
+              <UseTextToVoice>False</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText />
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>Timer</TimerType>
+              <TimerName>STR: ME</TimerName>
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>1620000</TimerMillisecondDuration>
+              <TimerDuration>1620</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>StartNewTimer</TimerStartBehavior>
+              <TimerEndingTime>10</TimerEndingTime>
+              <UseTimerEnding>True</UseTimerEnding>
+              <UseTimerEnded>True</UseTimerEnded>
+              <TimerEndingTrigger>
+                <UseText>False</UseText>
+                <DisplayText />
+                <UseTextToVoice>True</UseTextToVoice>
+                <InterruptSpeech>False</InterruptSpeech>
+                <TextToVoiceText>Strength ended on me</TextToVoiceText>
+                <PlayMediaFile>False</PlayMediaFile>
+              </TimerEndingTrigger>
+              <TimerEndedTrigger>
+                <UseText>True</UseText>
+                <DisplayText />
+                <UseTextToVoice>False</UseTextToVoice>
+                <InterruptSpeech>False</InterruptSpeech>
+                <TextToVoiceText />
+                <PlayMediaFile>False</PlayMediaFile>
+              </TimerEndedTrigger>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Buffs</Category>
+              <Modified>2022-11-13T17:32:21</Modified>
+              <UseFastCheck>False</UseFastCheck>
+              <TimerEarlyEnders>
+                <EarlyEnder>
+                  <EarlyEndText>Your strength fades</EarlyEndText>
+                  <EnableRegex>True</EnableRegex>
+                </EarlyEnder>
+              </TimerEarlyEnders>
+            </Trigger>
+            <Trigger>
+              <Name>str</Name>
+              <TriggerText>(?&lt;player&gt;.*) looks stronger</TriggerText>
+              <Comments />
+              <EnableRegex>True</EnableRegex>
+              <UseText>False</UseText>
+              <DisplayText />
+              <CopyToClipboard>False</CopyToClipboard>
+              <ClipboardText />
+              <UseTextToVoice>False</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText />
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>Timer</TimerType>
+              <TimerName>STR: ${player}</TimerName>
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>3246000</TimerMillisecondDuration>
+              <TimerDuration>3246</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>StartNewTimer</TimerStartBehavior>
+              <TimerEndingTime>5</TimerEndingTime>
+              <UseTimerEnding>True</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <TimerEndingTrigger>
+                <UseText>False</UseText>
+                <DisplayText />
+                <UseTextToVoice>True</UseTextToVoice>
+                <InterruptSpeech>False</InterruptSpeech>
+                <TextToVoiceText />
+                <PlayMediaFile>False</PlayMediaFile>
+              </TimerEndingTrigger>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Buffs</Category>
+              <Modified>2022-11-13T17:32:21</Modified>
+              <UseFastCheck>True</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+            <Trigger>
+              <Name>immolate</Name>
+              <TriggerText>(?&lt;mob&gt;.*) is surrounded by blazing flames.</TriggerText>
+              <Comments />
+              <EnableRegex>True</EnableRegex>
+              <UseText>False</UseText>
+              <DisplayText />
+              <CopyToClipboard>False</CopyToClipboard>
+              <ClipboardText />
+              <UseTextToVoice>False</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText />
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>Timer</TimerType>
+              <TimerName>[Immolate] ${mob}</TimerName>
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>63000</TimerMillisecondDuration>
+              <TimerDuration>63</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>StartNewTimer</TimerStartBehavior>
+              <TimerEndingTime>10</TimerEndingTime>
+              <UseTimerEnding>True</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <TimerEndingTrigger>
+                <UseText>False</UseText>
+                <DisplayText>DOT 2 ending on ${mob}</DisplayText>
+                <UseTextToVoice>True</UseTextToVoice>
+                <InterruptSpeech>False</InterruptSpeech>
+                <TextToVoiceText>immolate ending on ${mob}</TextToVoiceText>
+                <PlayMediaFile>False</PlayMediaFile>
+              </TimerEndingTrigger>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Spells</Category>
+              <Modified>2022-11-13T17:32:21</Modified>
+              <UseFastCheck>True</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+            <Trigger>
+              <Name>SLN</Name>
+              <TriggerText>(?&lt;player&gt;(.*'s)|(Your)) skin shimmers with divine power</TriggerText>
+              <Comments />
+              <EnableRegex>True</EnableRegex>
+              <UseText>False</UseText>
+              <DisplayText />
+              <CopyToClipboard>False</CopyToClipboard>
+              <ClipboardText />
+              <UseTextToVoice>False</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText />
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>Timer</TimerType>
+              <TimerName>SLN ${player}</TimerName>
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>4344000</TimerMillisecondDuration>
+              <TimerDuration>4344</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>RestartTimer</TimerStartBehavior>
+              <TimerEndingTime>61</TimerEndingTime>
+              <UseTimerEnding>True</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <TimerEndingTrigger>
+                <UseText>False</UseText>
+                <DisplayText />
+                <UseTextToVoice>True</UseTextToVoice>
+                <InterruptSpeech>False</InterruptSpeech>
+                <TextToVoiceText>SLN ending on ${player}</TextToVoiceText>
+                <PlayMediaFile>False</PlayMediaFile>
+              </TimerEndingTrigger>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Buffs</Category>
+              <Modified>2022-11-13T17:32:21</Modified>
+              <UseFastCheck>True</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+            <Trigger>
+              <Name>harmony</Name>
+              <TriggerText>^You begin casting Harmony\.$</TriggerText>
+              <Comments />
+              <EnableRegex>True</EnableRegex>
+              <UseText>False</UseText>
+              <DisplayText />
+              <CopyToClipboard>False</CopyToClipboard>
+              <ClipboardText />
+              <UseTextToVoice>False</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText />
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>Timer</TimerType>
+              <TimerName>harmony</TimerName>
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>120000</TimerMillisecondDuration>
+              <TimerDuration>120</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>StartNewTimer</TimerStartBehavior>
+              <TimerEndingTime>15</TimerEndingTime>
+              <UseTimerEnding>True</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <TimerEndingTrigger>
+                <UseText>True</UseText>
+                <DisplayText>HARMONY</DisplayText>
+                <UseTextToVoice>True</UseTextToVoice>
+                <InterruptSpeech>True</InterruptSpeech>
+                <TextToVoiceText>HARMONY</TextToVoiceText>
+                <PlayMediaFile>False</PlayMediaFile>
+              </TimerEndingTrigger>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Default</Category>
+              <Modified>2022-11-13T17:32:21</Modified>
+              <UseFastCheck>True</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+            <Trigger>
+              <Name>Thorncoat</Name>
+              <TriggerText>^Thorns spring from your skin\.$</TriggerText>
+              <Comments />
+              <EnableRegex>True</EnableRegex>
+              <UseText>False</UseText>
+              <DisplayText />
+              <CopyToClipboard>False</CopyToClipboard>
+              <ClipboardText />
+              <UseTextToVoice>False</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText />
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>Timer</TimerType>
+              <TimerName>Thorncoat</TimerName>
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>11700000</TimerMillisecondDuration>
+              <TimerDuration>11700</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>RestartTimer</TimerStartBehavior>
+              <TimerEndingTime>15</TimerEndingTime>
+              <UseTimerEnding>True</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <TimerEndingTrigger>
+                <UseText>False</UseText>
+                <DisplayText />
+                <UseTextToVoice>True</UseTextToVoice>
+                <InterruptSpeech>False</InterruptSpeech>
+                <TextToVoiceText>Thorn coat is ending</TextToVoiceText>
+                <PlayMediaFile>False</PlayMediaFile>
+              </TimerEndingTrigger>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Buffs</Category>
+              <Modified>2022-11-13T17:32:21</Modified>
+              <UseFastCheck>True</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+            <Trigger>
+              <Name>Resists Others</Name>
+              <TriggerText>^(?&lt;player&gt;.*) is resistant to (?&lt;effect&gt;.*)\.$</TriggerText>
+              <Comments />
+              <EnableRegex>True</EnableRegex>
+              <UseText>False</UseText>
+              <DisplayText />
+              <CopyToClipboard>False</CopyToClipboard>
+              <ClipboardText />
+              <UseTextToVoice>False</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText />
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>Timer</TimerType>
+              <TimerName>RESIST ${effect}:: ${player}</TimerName>
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>2160000</TimerMillisecondDuration>
+              <TimerDuration>2160</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>RestartTimer</TimerStartBehavior>
+              <TimerEndingTime>15</TimerEndingTime>
+              <UseTimerEnding>True</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <TimerEndingTrigger>
+                <UseText>False</UseText>
+                <DisplayText />
+                <UseTextToVoice>True</UseTextToVoice>
+                <InterruptSpeech>False</InterruptSpeech>
+                <TextToVoiceText>Resist ${effect} is ending on ${player}</TextToVoiceText>
+                <PlayMediaFile>False</PlayMediaFile>
+              </TimerEndingTrigger>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Buffs</Category>
+              <Modified>2022-11-13T17:32:21</Modified>
+              <UseFastCheck>True</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+          </Triggers>
+        </TriggerGroup>
+      </TriggerGroups>
+    </TriggerGroup>
+  </TriggerGroups>
+<TriggerGroups>
+    <TriggerGroup>
+      <Name>zones</Name>
+      <Comments />
+      <SelfCommented>False</SelfCommented>
+      <GroupId>0</GroupId>
+      <EnableByDefault>False</EnableByDefault>
+      <TriggerGroups>
+        <TriggerGroup>
+          <Name>mm</Name>
+          <Comments />
+          <SelfCommented>False</SelfCommented>
+          <GroupId>0</GroupId>
+          <EnableByDefault>False</EnableByDefault>
+          <TriggerGroups>
+            <TriggerGroup>
+              <Name>named</Name>
+              <Comments />
+              <SelfCommented>False</SelfCommented>
+              <GroupId>0</GroupId>
+              <EnableByDefault>False</EnableByDefault>
+              <Triggers>
+                <Trigger>
+                  <Name>lasna</Name>
+                  <TriggerText>(You have slain (?&lt;mob&gt;(a Mistmoore guard)|(Xicotl)!))|((?&lt;mob&gt;(a Mistmoore guard)|(Xicotl)) has been slain by .*!)</TriggerText>
+                  <Comments />
+                  <EnableRegex>True</EnableRegex>
+                  <UseText>False</UseText>
+                  <DisplayText>pop in 1 minute</DisplayText>
+                  <CopyToClipboard>False</CopyToClipboard>
+                  <ClipboardText>pop in 1 minute</ClipboardText>
+                  <UseTextToVoice>False</UseTextToVoice>
+                  <InterruptSpeech>False</InterruptSpeech>
+                  <TextToVoiceText />
+                  <PlayMediaFile>False</PlayMediaFile>
+                  <TimerType>Timer</TimerType>
+                  <TimerName>room</TimerName>
+                  <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+                  <TimerMillisecondDuration>1320000</TimerMillisecondDuration>
+                  <TimerDuration>1320</TimerDuration>
+                  <TimerVisibleDuration>0</TimerVisibleDuration>
+                  <TimerStartBehavior>StartNewTimer</TimerStartBehavior>
+                  <TimerEndingTime>30</TimerEndingTime>
+                  <UseTimerEnding>True</UseTimerEnding>
+                  <UseTimerEnded>False</UseTimerEnded>
+                  <TimerEndingTrigger>
+                    <UseText>True</UseText>
+                    <DisplayText>Room Pop in 30 sec</DisplayText>
+                    <UseTextToVoice>True</UseTextToVoice>
+                    <InterruptSpeech>False</InterruptSpeech>
+                    <TextToVoiceText>Lasna Room Pop in 30 seconds</TextToVoiceText>
+                    <PlayMediaFile>False</PlayMediaFile>
+                  </TimerEndingTrigger>
+                  <UseCounterResetTimer>False</UseCounterResetTimer>
+                  <CounterResetDuration>0</CounterResetDuration>
+                  <Category>Timers</Category>
+                  <Modified>2022-11-13T14:56:46</Modified>
+                  <UseFastCheck>False</UseFastCheck>
+                  <TimerEarlyEnders />
+                </Trigger>
+              </Triggers>
+            </TriggerGroup>
+            <TriggerGroup>
+              <Name>zone</Name>
+              <Comments />
+              <SelfCommented>False</SelfCommented>
+              <GroupId>0</GroupId>
+              <EnableByDefault>False</EnableByDefault>
+              <Triggers>
+                <Trigger>
+                  <Name>zone timer</Name>
+                  <TriggerText>(You have slain (?&lt;mob&gt;.*)!)|((?&lt;mob&gt;.*) has been slain by .*!)</TriggerText>
+                  <Comments />
+                  <EnableRegex>True</EnableRegex>
+                  <UseText>False</UseText>
+                  <DisplayText />
+                  <CopyToClipboard>False</CopyToClipboard>
+                  <ClipboardText />
+                  <UseTextToVoice>False</UseTextToVoice>
+                  <InterruptSpeech>False</InterruptSpeech>
+                  <TextToVoiceText />
+                  <PlayMediaFile>False</PlayMediaFile>
+                  <TimerType>Timer</TimerType>
+                  <TimerName>${mob}</TimerName>
+                  <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+                  <TimerMillisecondDuration>1320000</TimerMillisecondDuration>
+                  <TimerDuration>1320</TimerDuration>
+                  <TimerVisibleDuration>0</TimerVisibleDuration>
+                  <TimerStartBehavior>StartNewTimer</TimerStartBehavior>
+                  <TimerEndingTime>5</TimerEndingTime>
+                  <UseTimerEnding>True</UseTimerEnding>
+                  <UseTimerEnded>False</UseTimerEnded>
+                  <TimerEndingTrigger>
+                    <UseText>False</UseText>
+                    <DisplayText />
+                    <UseTextToVoice>False</UseTextToVoice>
+                    <InterruptSpeech>False</InterruptSpeech>
+                    <TextToVoiceText />
+                    <PlayMediaFile>False</PlayMediaFile>
+                  </TimerEndingTrigger>
+                  <UseCounterResetTimer>False</UseCounterResetTimer>
+                  <CounterResetDuration>0</CounterResetDuration>
+                  <Category>Timers</Category>
+                  <Modified>2022-11-13T14:56:46</Modified>
+                  <UseFastCheck>True</UseFastCheck>
+                  <TimerEarlyEnders />
+                </Trigger>
+              </Triggers>
+            </TriggerGroup>
+          </TriggerGroups>
+        </TriggerGroup>
+        <TriggerGroup>
+          <Name>unrest</Name>
+          <Comments />
+          <SelfCommented>False</SelfCommented>
+          <GroupId>0</GroupId>
+          <EnableByDefault>False</EnableByDefault>
+          <TriggerGroups>
+            <TriggerGroup>
+              <Name>zone</Name>
+              <Comments />
+              <SelfCommented>False</SelfCommented>
+              <GroupId>0</GroupId>
+              <EnableByDefault>False</EnableByDefault>
+            </TriggerGroup>
+          </TriggerGroups>
+        </TriggerGroup>
+        <TriggerGroup>
+          <Name>sol a</Name>
+          <Comments />
+          <SelfCommented>False</SelfCommented>
+          <GroupId>0</GroupId>
+          <EnableByDefault>False</EnableByDefault>
+          <TriggerGroups>
+            <TriggerGroup>
+              <Name>zone</Name>
+              <Comments />
+              <SelfCommented>False</SelfCommented>
+              <GroupId>0</GroupId>
+              <EnableByDefault>False</EnableByDefault>
+            </TriggerGroup>
+          </TriggerGroups>
+        </TriggerGroup>
+        <TriggerGroup>
+          <Name>uguk</Name>
+          <Comments />
+          <SelfCommented>False</SelfCommented>
+          <GroupId>0</GroupId>
+          <EnableByDefault>False</EnableByDefault>
+          <TriggerGroups>
+            <TriggerGroup>
+              <Name>zone</Name>
+              <Comments />
+              <SelfCommented>False</SelfCommented>
+              <GroupId>0</GroupId>
+              <EnableByDefault>False</EnableByDefault>
+            </TriggerGroup>
+          </TriggerGroups>
+        </TriggerGroup>
+        <TriggerGroup>
+          <Name>lguk</Name>
+          <Comments />
+          <SelfCommented>False</SelfCommented>
+          <GroupId>0</GroupId>
+          <EnableByDefault>False</EnableByDefault>
+          <TriggerGroups>
+            <TriggerGroup>
+              <Name>zone</Name>
+              <Comments />
+              <SelfCommented>False</SelfCommented>
+              <GroupId>0</GroupId>
+              <EnableByDefault>False</EnableByDefault>
+              <Triggers>
+                <Trigger>
+                  <Name>zone timer</Name>
+                  <TriggerText>(You have slain (?&lt;mob&gt;.*)!)|((?&lt;mob&gt;.*) has been slain by .*!)</TriggerText>
+                  <Comments />
+                  <EnableRegex>True</EnableRegex>
+                  <UseText>False</UseText>
+                  <DisplayText />
+                  <CopyToClipboard>False</CopyToClipboard>
+                  <ClipboardText />
+                  <UseTextToVoice>False</UseTextToVoice>
+                  <InterruptSpeech>False</InterruptSpeech>
+                  <TextToVoiceText />
+                  <PlayMediaFile>False</PlayMediaFile>
+                  <TimerType>Timer</TimerType>
+                  <TimerName>${mob}</TimerName>
+                  <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+                  <TimerMillisecondDuration>1680000</TimerMillisecondDuration>
+                  <TimerDuration>1680</TimerDuration>
+                  <TimerVisibleDuration>0</TimerVisibleDuration>
+                  <TimerStartBehavior>StartNewTimer</TimerStartBehavior>
+                  <TimerEndingTime>1</TimerEndingTime>
+                  <UseTimerEnding>False</UseTimerEnding>
+                  <UseTimerEnded>False</UseTimerEnded>
+                  <UseCounterResetTimer>False</UseCounterResetTimer>
+                  <CounterResetDuration>0</CounterResetDuration>
+                  <Category>Timers</Category>
+                  <Modified>2022-11-13T14:56:46</Modified>
+                  <UseFastCheck>True</UseFastCheck>
+                  <TimerEarlyEnders />
+                </Trigger>
+              </Triggers>
+            </TriggerGroup>
+          </TriggerGroups>
+        </TriggerGroup>
+        <TriggerGroup>
+          <Name>rath mountains &amp; ot</Name>
+          <Comments />
+          <SelfCommented>False</SelfCommented>
+          <GroupId>0</GroupId>
+          <EnableByDefault>False</EnableByDefault>
+          <Triggers>
+            <Trigger>
+              <Name>zone timer</Name>
+              <TriggerText>(You have slain (?&lt;mob&gt;.*)!)|((?&lt;mob&gt;.*) has been slain by .*!)</TriggerText>
+              <Comments />
+              <EnableRegex>True</EnableRegex>
+              <UseText>False</UseText>
+              <DisplayText />
+              <CopyToClipboard>False</CopyToClipboard>
+              <ClipboardText />
+              <UseTextToVoice>False</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText />
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>Timer</TimerType>
+              <TimerName>${mob}</TimerName>
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>400000</TimerMillisecondDuration>
+              <TimerDuration>400</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>StartNewTimer</TimerStartBehavior>
+              <TimerEndingTime>1</TimerEndingTime>
+              <UseTimerEnding>False</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Default</Category>
+              <Modified>2022-11-13T14:56:46</Modified>
+              <UseFastCheck>True</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+          </Triggers>
+        </TriggerGroup>
+        <TriggerGroup>
+          <Name>OOT</Name>
+          <Comments />
+          <SelfCommented>False</SelfCommented>
+          <GroupId>0</GroupId>
+          <EnableByDefault>False</EnableByDefault>
+        </TriggerGroup>
+        <TriggerGroup>
+          <Name>SG</Name>
+          <Comments />
+          <SelfCommented>False</SelfCommented>
+          <GroupId>0</GroupId>
+          <EnableByDefault>False</EnableByDefault>
+          <Triggers>
+            <Trigger>
+              <Name>zone timer</Name>
+              <TriggerText>(You have slain (?&lt;mob&gt;.*)!)|((?&lt;mob&gt;.*) has been slain by .*!)</TriggerText>
+              <Comments />
+              <EnableRegex>True</EnableRegex>
+              <UseText>False</UseText>
+              <DisplayText />
+              <CopyToClipboard>False</CopyToClipboard>
+              <ClipboardText />
+              <UseTextToVoice>False</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText />
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>Timer</TimerType>
+              <TimerName>${mob}</TimerName>
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>1680000</TimerMillisecondDuration>
+              <TimerDuration>1680</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>StartNewTimer</TimerStartBehavior>
+              <TimerEndingTime>1</TimerEndingTime>
+              <UseTimerEnding>False</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Timers</Category>
+              <Modified>2022-11-13T14:56:46</Modified>
+              <UseFastCheck>True</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+          </Triggers>
+        </TriggerGroup>
+        <TriggerGroup>
+          <Name>karnor &amp; SEB</Name>
+          <Comments />
+          <SelfCommented>False</SelfCommented>
+          <GroupId>0</GroupId>
+          <EnableByDefault>False</EnableByDefault>
+          <Triggers>
+            <Trigger>
+              <Name>zone timer</Name>
+              <TriggerText>(You have slain (?&lt;mob&gt;.*)!)|((?&lt;mob&gt;.*) has been slain by .*!)</TriggerText>
+              <Comments />
+              <EnableRegex>True</EnableRegex>
+              <UseText>False</UseText>
+              <DisplayText />
+              <CopyToClipboard>False</CopyToClipboard>
+              <ClipboardText />
+              <UseTextToVoice>False</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText />
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>Timer</TimerType>
+              <TimerName>${mob}</TimerName>
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>1620000</TimerMillisecondDuration>
+              <TimerDuration>1620</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>StartNewTimer</TimerStartBehavior>
+              <TimerEndingTime>1</TimerEndingTime>
+              <UseTimerEnding>False</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Timers</Category>
+              <Modified>2022-11-13T14:56:46</Modified>
+              <UseFastCheck>True</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+          </Triggers>
+        </TriggerGroup>
+        <TriggerGroup>
+          <Name>chardok</Name>
+          <Comments />
+          <SelfCommented>False</SelfCommented>
+          <GroupId>0</GroupId>
+          <EnableByDefault>False</EnableByDefault>
+          <Triggers>
+            <Trigger>
+              <Name>zone timer</Name>
+              <TriggerText>(You have slain (?&lt;mob&gt;.*)!)|((?&lt;mob&gt;.*) has been slain by .*!)</TriggerText>
+              <Comments />
+              <EnableRegex>True</EnableRegex>
+              <UseText>False</UseText>
+              <DisplayText>${mob}</DisplayText>
+              <CopyToClipboard>False</CopyToClipboard>
+              <ClipboardText />
+              <UseTextToVoice>False</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText />
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>Timer</TimerType>
+              <TimerName>${mob}</TimerName>
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>1200000</TimerMillisecondDuration>
+              <TimerDuration>1200</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>StartNewTimer</TimerStartBehavior>
+              <TimerEndingTime>1</TimerEndingTime>
+              <UseTimerEnding>False</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Timers</Category>
+              <Modified>2022-11-13T14:56:46</Modified>
+              <UseFastCheck>False</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+          </Triggers>
+        </TriggerGroup>
+        <TriggerGroup>
+          <Name>hs</Name>
+          <Comments />
+          <SelfCommented>False</SelfCommented>
+          <GroupId>0</GroupId>
+          <EnableByDefault>False</EnableByDefault>
+          <Triggers>
+            <Trigger>
+              <Name>zone timer</Name>
+              <TriggerText>(You have slain (?&lt;mob&gt;.*)!)|((?&lt;mob&gt;.*) has been slain by .*!)</TriggerText>
+              <Comments />
+              <EnableRegex>True</EnableRegex>
+              <UseText>False</UseText>
+              <DisplayText />
+              <CopyToClipboard>False</CopyToClipboard>
+              <ClipboardText />
+              <UseTextToVoice>False</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText />
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>Timer</TimerType>
+              <TimerName>${mob}</TimerName>
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>1350000</TimerMillisecondDuration>
+              <TimerDuration>1350</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>StartNewTimer</TimerStartBehavior>
+              <TimerEndingTime>1</TimerEndingTime>
+              <UseTimerEnding>False</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Timers</Category>
+              <Modified>2022-11-13T14:56:46</Modified>
+              <UseFastCheck>True</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+          </Triggers>
+        </TriggerGroup>
+        <TriggerGroup>
+          <Name>velk</Name>
+          <Comments />
+          <SelfCommented>False</SelfCommented>
+          <GroupId>0</GroupId>
+          <EnableByDefault>False</EnableByDefault>
+          <Triggers>
+            <Trigger>
+              <Name>ZONE</Name>
+              <TriggerText>(You have slain (?&lt;mob&gt;.*)!)|((?&lt;mob&gt;.*) has been slain by .*!)</TriggerText>
+              <Comments />
+              <EnableRegex>True</EnableRegex>
+              <UseText>False</UseText>
+              <DisplayText />
+              <CopyToClipboard>False</CopyToClipboard>
+              <ClipboardText />
+              <UseTextToVoice>False</UseTextToVoice>
+              <InterruptSpeech>False</InterruptSpeech>
+              <TextToVoiceText />
+              <PlayMediaFile>False</PlayMediaFile>
+              <TimerType>Timer</TimerType>
+              <TimerName>${mob}</TimerName>
+              <RestartBasedOnTimerName>False</RestartBasedOnTimerName>
+              <TimerMillisecondDuration>1970000</TimerMillisecondDuration>
+              <TimerDuration>1970</TimerDuration>
+              <TimerVisibleDuration>0</TimerVisibleDuration>
+              <TimerStartBehavior>StartNewTimer</TimerStartBehavior>
+              <TimerEndingTime>1</TimerEndingTime>
+              <UseTimerEnding>False</UseTimerEnding>
+              <UseTimerEnded>False</UseTimerEnded>
+              <UseCounterResetTimer>False</UseCounterResetTimer>
+              <CounterResetDuration>0</CounterResetDuration>
+              <Category>Default</Category>
+              <Modified>2022-11-13T14:56:46</Modified>
+              <UseFastCheck>False</UseFastCheck>
+              <TimerEarlyEnders />
+            </Trigger>
+          </Triggers>
+        </TriggerGroup>
+      </TriggerGroups>
+    </TriggerGroup>
+  </TriggerGroups>
+</SharedData>
