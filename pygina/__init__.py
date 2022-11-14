@@ -80,6 +80,9 @@ class Trigger(BaseClass):
             self._reg_ex = re.compile(self.trigger_text.replace("?<", "?P<"))
         return self._reg_ex
 
+    def match(self, line: str) -> bool:
+        return self._reg_ex.match(line)
+
     def __init__(self, xml: Element):
 
         for node in xml.findall("./"):

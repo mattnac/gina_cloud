@@ -9,8 +9,6 @@ import tail, re
 from xml.etree import ElementTree
 from pygina import Trigger, TriggerList
 
-TRIGGERS = TriggerList
-
 
 def merge(xml_list):
     xml_data = None
@@ -50,14 +48,12 @@ def configure_logging(verbose):
 def cli(ctx, triggers_dir, log_file, verbose):
     configure_logging(verbose)
     ctx.ensure_object(dict)
-    global TRIGGERS
-    TRIGGERS = get_triggers(triggers_dir)
+
+    load_triggers(triggers_dir)
     ctx.obj["log_file"] = log_file
 
 
-
-def get_triggers(dir):
-    triggers = list()
+def load_triggers(dir):
     files = get_file_list(dir)
     xml_data = list()
     for f in files:
@@ -66,9 +62,7 @@ def get_triggers(dir):
                 xml_data.append(xml_file.read())
 
     for trigger in merge(xml_data):
-        triggers.append(Trigger(xml=trigger))
-
-    return triggers
+        TriggerList.append(Trigger(xml=trigger))
 
 
 def get_file_list(dir):
@@ -87,9 +81,9 @@ def start(ctx):
 
 def check_pattern(line):
     click.echo(line, nl=False)
-    for p in TRIGGERS:
-        if re.match(p["regex"].replace("?<", "?P<"), line):
-            click.echo("MATCH {}".format(p["name"]))
+    for t in TriggerList:
+        if t.match(line):
+            click.echo("MATCH {}".format(t.name))
 
 
 if __name__ == '__main__':
