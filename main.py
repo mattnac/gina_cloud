@@ -1,13 +1,12 @@
 import click, zipfile
 from colorlog import ColoredFormatter
 import logging
-from logging.config import dictConfig
 from os import listdir
 from os.path import isfile, join
-from pprint import pprint
-import tail, re
+import tail
 from xml.etree import ElementTree
 from pygina import Trigger, TriggerList
+import inflection
 
 
 def merge(xml_list):
@@ -39,7 +38,7 @@ def configure_logging(verbose):
 @click.group()
 @click.option("--triggers-dir", "-T", help="Directory with gina triggers",
               type=click.Path(dir_okay=True, file_okay=False, resolve_path=True), default="triggers", show_default=True)
-@click.option('--log-file', '-L', default="~/shared/eqlogs/eqlog_Karolus_P1999Green.txt", help="Log file",
+@click.option('--log-file', '-L', default="/home/fishdaemon/EQLite/Logs/eqlog_Karolus_P1999Green.txt", help="Log file",
               required=True,
               show_default=True, type=click.Path(dir_okay=False, file_okay=True, resolve_path=True))
 @click.option("--verbose", "-v", count=True, default=(logging.WARNING / 20),
@@ -54,15 +53,29 @@ def cli(ctx, triggers_dir, log_file, verbose):
 
 
 def load_triggers(dir):
+
     files = get_file_list(dir)
     xml_data = list()
     for f in files:
         with zipfile.ZipFile(f, 'r') as zip_ref:
             with zip_ref.open('ShareData.xml') as xml_file:
                 xml_data.append(xml_file.read())
+    TriggerList.append(Trigger(
+        name="Zone Timer",
+        trigger_text="(You have slain (?<mob>.*)!)|((?<mob>.*) has been slain by .*!)",
+        timer_type="Timer",
+        timer_name="${mob}",
+        timer_duration=640,
+        category="timers",
+        restart_based_on_timer_name=False
 
+    ))
     for trigger in merge(xml_data):
-        TriggerList.append(Trigger(xml=trigger))
+        args = dict()
+        for node in trigger.findall("./"):
+            args[inflection.underscore(node.tag)] = node.text
+        TriggerList.append(Trigger(**args))
+
 
 
 def get_file_list(dir):
@@ -80,8 +93,9 @@ def start(ctx):
 
 
 def check_pattern(line):
-    click.echo(line, nl=False)
+    #click.echo(line, nl=False)
     for t in TriggerList:
+
         if t.match(line):
             click.echo("MATCH {}".format(t.name))
 
