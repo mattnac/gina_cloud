@@ -32,6 +32,6 @@ class Client(BaseClass):
 
 class LogLine(BaseClass):
     """
-    This class should take a client, and matched line and trigger to write to influx    
+    This class should take a client, and matched line and trigger to write to influx
     """
     pass
